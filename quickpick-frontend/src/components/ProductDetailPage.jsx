@@ -8,7 +8,7 @@ const ProductDetailPage = () => {
   const [userAddress, setUserAddress] = useState("");
   const token = localStorage.getItem("token");
 
-  const API_BASE = "http://localhost:5000";
+  const API_BASE = "https://quick-pick-o9en.onrender.com";
 
   // Fetch product details
   useEffect(() => {

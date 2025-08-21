@@ -12,7 +12,7 @@ const ForgotPassword = () => {
   const handleSendOtp = async (e) => {
     e.preventDefault();
     try {
-      await axios.post('http://localhost:5000/api/auth/forgot-password', { email });
+      await axios.post('https://quick-pick-o9en.onrender.com/api/auth/forgot-password', { email });
       setMsg('OTP sent to your email');
       setStep(2);
     } catch (err) {
@@ -24,7 +24,7 @@ const ForgotPassword = () => {
   const handleVerifyOtp = async (e) => {
     e.preventDefault();
     try {
-      const res = await axios.post('http://localhost:5000/api/auth/verify-reset-otp', { email, otp });
+      const res = await axios.post('https://quick-pick-o9en.onrender.com/api/auth/verify-reset-otp', { email, otp });
       setMsg('OTP verified');
       navigate(`/reset-password?token=${res.data.resetToken}`);
     } catch (err) {

@@ -24,7 +24,7 @@ const SearchResults = () => {
       setLoading(true);
       try {
         const res = await axios.get(
-          `http://localhost:5000/api/products/search?q=${query}`
+          `https://quick-pick-o9en.onrender.com/api/products/search?q=${query}`
         );
         setProducts(res.data);
         setFilteredProducts(res.data);

@@ -12,7 +12,7 @@ const ResetPassword = () => {
   const handleSubmit = async (e) => {
     e.preventDefault();
     try {
-      await axios.post('http://localhost:5000/api/auth/reset-password', { resetToken: token, newPassword });
+      await axios.post('https://quick-pick-o9en.onrender.com/api/auth/reset-password', { resetToken: token, newPassword });
       setMsg('Password reset successful');
       setTimeout(() => navigate('/login'), 2000); // Redirect to login after 2 seconds
     } catch (err) {

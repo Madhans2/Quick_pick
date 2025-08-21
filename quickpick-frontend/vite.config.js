@@ -6,7 +6,8 @@ export default defineConfig({
   plugins: [react()],
   server: {
   proxy: {
-    '/api': 'http://localhost:5000', // assuming backend runs on 5000
+    //'/api': 'http://localhost:5000', // assuming backend runs on 5000
+    '/api': 'https://quick-pick-o9en.onrender.com', // assuming backend runs on 5000
   },
 },
 })

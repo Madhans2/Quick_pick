@@ -8,7 +8,7 @@ export default function Profile() {
 
   // Fetch profile data from backend
   useEffect(() => {
-    fetch("http://localhost:5000/api/user/profile", {
+    fetch("https://quick-pick-o9en.onrender.com/api/user/profile", {
       headers: { Authorization: `Bearer ${token}` },
     })
       .then((res) => res.json())
@@ -25,7 +25,7 @@ export default function Profile() {
 
   // Save updated profile to MongoDB
   const handleSave = async () => {
-    const res = await fetch("http://localhost:5000/api/user/profile", {
+    const res = await fetch("https://quick-pick-o9en.onrender.com/api/user/profile", {
       method: "PUT",
       headers: {
         "Content-Type": "application/json",

@@ -34,7 +34,7 @@ export default function Navbar() {
     if (!token) return;
 
     // Optional: fetch latest profile from backend
-    fetch("http://localhost:5000/api/user/profile", {
+    fetch("https://quick-pick-o9en.onrender.com/api/user/profile", {
       method: "GET",
       headers: {
         "Content-Type": "application/json",

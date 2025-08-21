@@ -16,7 +16,7 @@ export default function OrdersPage() {
         const token = localStorage.getItem("token");
 
         // ✅ Fetch profile first (to get address, mobile, username)
-        const profileRes = await fetch("http://localhost:5000/api/user/profile", {
+        const profileRes = await fetch("https://quick-pick-o9en.onrender.com/api/user/profile", {
           headers: { Authorization: `Bearer ${token}` },
         });
         const profileData = await profileRes.json();
@@ -27,7 +27,7 @@ export default function OrdersPage() {
         });
 
         // ✅ Fetch orders
-        const res = await fetch("http://localhost:5000/api/orders", {
+        const res = await fetch("https://quick-pick-o9en.onrender.com/api/orders", {
           headers: { Authorization: `Bearer ${token}` },
         });
 
@@ -40,7 +40,7 @@ export default function OrdersPage() {
               order.items.map(async (item) => {
                 try {
                   const productRes = await fetch(
-                    `http://localhost:5000/api/products/${item.collectionName}/${item.productId}`
+                    `https://quick-pick-o9en.onrender.com/api/products/${item.collectionName}/${item.productId}`
                   );
                   const productData = await productRes.json();
                   return { ...item, product: productData };
