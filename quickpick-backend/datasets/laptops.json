@@ -1,0 +1,624 @@
+[{
+  "_id": {
+    "$oid": "67bc40dd2e1bd48da3e34386"
+  },
+  "title": "CHUWI Intel Celeron Dual Core 11th Gen N4020 - (8 GB/256 GB SSD/Windows 11 Home) HeroBook Pro Laptop",
+  "category": {
+    "main": "Laptops",
+    "sub": "CHUWI Laptops"
+  },
+  "brand": "CHUWI",
+  "price": 15990,
+  "rating": "3.7",
+  "image_url": "https://res.cloudinary.com/dljbnzwmr/image/upload/v1741600388/laptops/67bc40dd2e1bd48da3e34386.jpg",
+  "sold": 0,
+  "stock": 10,
+  "description": "The CHUWI HeroBook Pro is an affordable, lightweight laptop designed for everyday tasks like browsing, streaming, and light productivity. Powered by an Intel Celeron N4020 processor and equipped with 8 GB RAM and a 256 GB SSD, it offers reliable performance for students and casual users.",
+  "features": [
+    "Intel Celeron Dual Core N4020 processor",
+    "8 GB LPDDR4 RAM",
+    "256 GB SSD storage",
+    "14-inch Full HD display",
+    "Windows 11 Home pre-installed",
+    "Lightweight design (approx. 1.4 kg)",
+    "Up to 9 hours battery life"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67bc40e22e1bd48da3e34387"
+  },
+  "title": "DELL Vostro 3520 Intel Core i5 12th Gen 1235U - (16 GB/512 GB SSD/Windows 11 Home) Vostro 3520 Thin an...",
+  "category": {
+    "main": "Laptops",
+    "sub": "DELL Laptops"
+  },
+  "brand": "DELL",
+  "price": 49990,
+  "rating": "3.9",
+  "image_url": "https://res.cloudinary.com/dljbnzwmr/image/upload/v1741600388/laptops/67bc40e22e1bd48da3e34387.jpg",
+  "sold": 0,
+  "stock": 10,
+  "description": "The DELL Vostro 3520 is a versatile thin-and-light laptop tailored for professionals and students. With a 12th Gen Intel Core i5-1235U processor, 16 GB RAM, and a 512 GB SSD, it delivers smooth multitasking and fast storage for work and entertainment.",
+  "features": [
+    "12th Gen Intel Core i5-1235U processor",
+    "16 GB DDR4 RAM",
+    "512 GB NVMe SSD",
+    "15.6-inch Full HD display",
+    "Windows 11 Home",
+    "Spill-resistant keyboard",
+    "Up to 7 hours battery life"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67bc40e82e1bd48da3e34388"
+  },
+  "title": "MSI Thin 15 Intel Core i7 12th Gen 12650H - (16 GB/512 GB SSD/Windows 11 Home/4 GB Graphics/NVIDIA GeF...",
+  "category": {
+    "main": "Laptops",
+    "sub": "MSI Laptops"
+  },
+  "brand": "MSI",
+  "price": 59990,
+  "rating": "4.1",
+  "image_url": "https://res.cloudinary.com/dljbnzwmr/image/upload/v1741600389/laptops/67bc40e82e1bd48da3e34388.jpg",
+  "sold": 0,
+  "stock": 10,
+  "description": "The MSI Thin 15 is a sleek gaming laptop with powerful performance for gamers and creators. Featuring a 12th Gen Intel Core i7-12650H processor, 16 GB RAM, and an NVIDIA GeForce GPU, it ensures smooth gameplay and efficient multitasking.",
+  "features": [
+    "12th Gen Intel Core i7-12650H processor",
+    "16 GB DDR4 RAM",
+    "512 GB NVMe SSD",
+    "15.6-inch Full HD 144Hz display",
+    "NVIDIA GeForce 4 GB graphics",
+    "Windows 11 Home",
+    "RGB backlit keyboard"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67bc40ee2e1bd48da3e34389"
+  },
+  "title": "HP 255 G10 (2024) AMD Ryzen 3 Quad Core 7320U - (8 GB/512 GB SSD/Windows 11 Home) 250 G10 Thin and Lig...",
+  "category": {
+    "main": "Laptops",
+    "sub": "HP Laptops"
+  },
+  "brand": "HP",
+  "price": 25990,
+  "rating": "4.2",
+  "image_url": "https://res.cloudinary.com/dljbnzwmr/image/upload/v1741600389/laptops/67bc40ee2e1bd48da3e34389.jpg",
+  "sold": 0,
+  "stock": 10,
+  "description": "The HP 255 G10 (2024) is a budget-friendly, thin-and-light laptop ideal for students and professionals. Powered by an AMD Ryzen 3 7320U processor with 8 GB RAM and a 512 GB SSD, it offers reliable performance for daily tasks and portability.",
+  "features": [
+    "AMD Ryzen 3 Quad Core 7320U processor",
+    "8 GB LPDDR5 RAM",
+    "512 GB SSD",
+    "15.6-inch HD display",
+    "Windows 11 Home",
+    "Lightweight design (approx. 1.5 kg)",
+    "Up to 8 hours battery life"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67bc40f42e1bd48da3e3438a"
+  },
+  "title": "ASUS Vivobook 15, with Backlit Keyboard, Intel Core i3 12th Gen 1215U - (8 GB/512 GB SSD/Windows 11 Ho...",
+  "category": {
+    "main": "Laptops",
+    "sub": "ASUS Laptops"
+  },
+  "brand": "ASUS",
+  "price": 31990,
+  "rating": "4.3",
+  "image_url": "https://res.cloudinary.com/dljbnzwmr/image/upload/v1741600390/laptops/67bc40f42e1bd48da3e3438a.jpg",
+  "sold": 0,
+  "stock": 10,
+  "description": "The ASUS Vivobook 15 combines style and performance for everyday productivity. Featuring a 12th Gen Intel Core i3-1215U processor, 8 GB RAM, and a 512 GB SSD, it’s perfect for students and professionals needing a reliable, portable laptop.",
+  "features": [
+    "12th Gen Intel Core i3-1215U processor",
+    "8 GB DDR4 RAM",
+    "512 GB NVMe SSD",
+    "15.6-inch Full HD display",
+    "Backlit keyboard",
+    "Windows 11 Home",
+    "Fingerprint sensor"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67bc40f92e1bd48da3e3438b"
+  },
+  "title": "HP Victus Intel Core i5 12th Gen 12450H - (16 GB/1 TB SSD/Windows 11 Home/4 GB Graphics/NVIDIA GeForce...",
+  "category": {
+    "main": "Laptops",
+    "sub": "HP Laptops"
+  },
+  "brand": "HP",
+  "price": 68990,
+  "rating": "4.2",
+  "image_url": "https://res.cloudinary.com/dljbnzwmr/image/upload/v1741600391/laptops/67bc40f92e1bd48da3e3438b.jpg",
+  "sold": 0,
+  "stock": 10,
+  "description": "The HP Victus is a powerful gaming laptop designed for immersive gameplay. Equipped with a 12th Gen Intel Core i5-12450H processor, 16 GB RAM, a 1 TB SSD, and NVIDIA GeForce graphics, it delivers high performance for gaming and multitasking.",
+  "features": [
+    "12th Gen Intel Core i5-12450H processor",
+    "16 GB DDR4 RAM",
+    "1 TB NVMe SSD",
+    "15.6-inch Full HD 144Hz display",
+    "NVIDIA GeForce 4 GB graphics",
+    "Windows 11 Home",
+    "Backlit keyboard with numeric pad"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67bc40ff2e1bd48da3e3438c"
+  },
+  "title": "Lenovo LOQ Intel Core i7 13th Gen 13650HX - (24 GB/512 GB SSD/Windows 11 Home/8 GB Graphics/NVIDIA GeF...",
+  "category": {
+    "main": "Laptops",
+    "sub": "Lenovo Laptops"
+  },
+  "brand": "Lenovo",
+  "price": 99990,
+  "rating": "4.3",
+  "image_url": "https://res.cloudinary.com/dljbnzwmr/image/upload/v1741600392/laptops/67bc40ff2e1bd48da3e3438c.jpg",
+  "sold": 0,
+  "stock": 10,
+  "description": "The Lenovo LOQ is a high-performance gaming laptop built for serious gamers. With a 13th Gen Intel Core i7-13650HX processor, 24 GB RAM, and an 8 GB NVIDIA GeForce GPU, it offers exceptional speed and graphics for gaming and creative tasks.",
+  "features": [
+    "13th Gen Intel Core i7-13650HX processor",
+    "24 GB DDR5 RAM",
+    "512 GB NVMe SSD",
+    "15.6-inch Full HD 144Hz display",
+    "NVIDIA GeForce 8 GB graphics",
+    "Windows 11 Home",
+    "RGB backlit keyboard"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67bc41052e1bd48da3e3438d"
+  },
+  "title": "ASUS Vivobook Go 15 AMD Ryzen 3 Quad Core 7320U - (8 GB/512 GB SSD/Windows 11 Home) E1504FA-NJ321WS Th...",
+  "category": {
+    "main": "Laptops",
+    "sub": "ASUS Laptops"
+  },
+  "brand": "ASUS",
+  "price": 31990,
+  "rating": "4.2",
+  "image_url": "https://res.cloudinary.com/dljbnzwmr/image/upload/v1741600392/laptops/67bc41052e1bd48da3e3438d.jpg",
+  "sold": 0,
+  "stock": 10,
+  "description": "The ASUS Vivobook Go 15 is a stylish, lightweight laptop perfect for on-the-go productivity. Powered by an AMD Ryzen 3 7320U processor with 8 GB RAM and a 512 GB SSD, it’s ideal for students and casual users seeking performance and portability.",
+  "features": [
+    "AMD Ryzen 3 Quad Core 7320U processor",
+    "8 GB LPDDR5 RAM",
+    "512 GB NVMe SSD",
+    "15.6-inch Full HD display",
+    "Windows 11 Home",
+    "Ultra-slim design",
+    "Up to 10 hours battery life"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67bc410d2e1bd48da3e3438e"
+  },
+  "title": "Infinix GT Book Intel Core i5 12th Gen 12450H - (16 GB/512 GB SSD/Windows 11 Home/6 GB Graphics/NVIDIA...",
+  "category": {
+    "main": "Laptops",
+    "sub": "Infinix Laptops"
+  },
+  "brand": "Infinix",
+  "price": 53990,
+  "rating": "4.3",
+  "image_url": "https://res.cloudinary.com/dljbnzwmr/image/upload/v1741600393/laptops/67bc410d2e1bd48da3e3438e.jpg",
+  "sold": 0,
+  "stock": 10,
+  "description": "The Infinix GT Book is a dynamic gaming laptop offering robust performance for gamers and creators. With a 12th Gen Intel Core i5-12450H processor, 16 GB RAM, and a 6 GB NVIDIA GPU, it ensures smooth gaming and multitasking.",
+  "features": [
+    "12th Gen Intel Core i5-12450H processor",
+    "16 GB DDR4 RAM",
+    "512 GB NVMe SSD",
+    "16-inch Full HD 120Hz display",
+    "NVIDIA GeForce 6 GB graphics",
+    "Windows 11 Home",
+    "Customizable RGB lighting"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67bc41132e1bd48da3e3438f"
+  },
+  "title": "Lenovo IdeaPad Slim 5 WUXGA IPS AI PC Intel Core Ultra 5 125H - (16 GB/512 GB SSD/Windows 11 Home) 14I...",
+  "category": {
+    "main": "Laptops",
+    "sub": "Lenovo Laptops"
+  },
+  "brand": "Lenovo",
+  "price": 68990,
+  "rating": "4.2",
+  "image_url": "https://res.cloudinary.com/dljbnzwmr/image/upload/v1741600394/laptops/67bc41132e1bd48da3e3438f.jpg",
+  "sold": 0,
+  "stock": 10,
+  "description": "The Lenovo IdeaPad Slim 5 is an AI-powered, premium laptop designed for professionals and creators. Featuring an Intel Core Ultra 5 125H processor, 16 GB RAM, and a vibrant WUXGA IPS display, it’s perfect for productivity and entertainment.",
+  "features": [
+    "Intel Core Ultra 5 125H processor",
+    "16 GB LPDDR5 RAM",
+    "512 GB NVMe SSD",
+    "14-inch WUXGA IPS display",
+    "Windows 11 Home",
+    "AI performance optimization",
+    "Up to 11 hours battery life"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67bc411c2e1bd48da3e34390"
+  },
+  "title": "HP Backlit Intel Core i5 12th Gen 1235U - (8 GB/512 GB SSD/Windows 11 Home) 15s-fy5002TU Thin and Ligh...",
+  "category": {
+    "main": "Laptops",
+    "sub": "HP Laptops"
+  },
+  "brand": "HP",
+  "price": 46490,
+  "rating": "4.2",
+  "image_url": "https://res.cloudinary.com/dljbnzwmr/image/upload/v1741600395/laptops/67bc411c2e1bd48da3e34390.jpg",
+  "sold": 0,
+  "stock": 10,
+  "description": "The HP 15s-fy5002TU is a sleek, thin-and-light laptop for everyday productivity. With a 12th Gen Intel Core i5-1235U processor, 8 GB RAM, and a 512 GB SSD, it offers reliable performance for work, study, and entertainment.",
+  "features": [
+    "12th Gen Intel Core i5-1235U processor",
+    "8 GB DDR4 RAM",
+    "512 GB NVMe SSD",
+    "15.6-inch Full HD display",
+    "Backlit keyboard",
+    "Windows 11 Home",
+    "Fast charging support"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67bc41232e1bd48da3e34391"
+  },
+  "title": "HP Intel Core i5 12th Gen 1235U - (16 GB/512 GB SSD/Windows 11 Home) 15s-fq5330TU|15-fd0111TU Thin and...",
+  "category": {
+    "main": "Laptops",
+    "sub": "HP Laptops"
+  },
+  "brand": "HP",
+  "price": 53990,
+  "rating": "4.2",
+  "image_url": "https://res.cloudinary.com/dljbnzwmr/image/upload/v1741600395/laptops/67bc41232e1bd48da3e34391.jpg",
+  "sold": 0,
+  "stock": 10,
+  "description": "The HP 15s-fq5330TU is a powerful thin-and-light laptop for professionals and students. Equipped with a 12th Gen Intel Core i5-1235U processor, 16 GB RAM, and a 512 GB SSD, it ensures smooth multitasking and portability.",
+  "features": [
+    "12th Gen Intel Core i5-1235U processor",
+    "16 GB DDR4 RAM",
+    "512 GB NVMe SSD",
+    "15.6-inch Full HD display",
+    "Windows 11 Home",
+    "Lightweight design (approx. 1.7 kg)",
+    "Up to 7.5 hours battery life"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67bc41292e1bd48da3e34392"
+  },
+  "title": "ASUS Chromebook Intel Celeron Dual Core N4500 - (4 GB/64 GB EMMC Storage/Chrome OS) CX1500CKA-NJ0393 C...",
+  "category": {
+    "main": "Laptops",
+    "sub": "ASUS Laptops"
+  },
+  "brand": "ASUS",
+  "price": 13990,
+  "rating": "3.8",
+  "image_url": "https://res.cloudinary.com/dljbnzwmr/image/upload/v1741600396/laptops/67bc41292e1bd48da3e34392.jpg",
+  "sold": 0,
+  "stock": 10,
+  "description": "The ASUS Chromebook CX1500CKA is a compact, budget-friendly laptop for basic tasks and cloud-based computing. Powered by an Intel Celeron N4500 processor and running Chrome OS, it’s ideal for students and casual users.",
+  "features": [
+    "Intel Celeron Dual Core N4500 processor",
+    "4 GB LPDDR4 RAM",
+    "64 GB eMMC storage",
+    "15.6-inch HD display",
+    "Chrome OS",
+    "Lightweight design (approx. 1.8 kg)",
+    "Up to 11 hours battery life"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67bc41302e1bd48da3e34393"
+  },
+  "title": "Acer Swift Go 14 Snapdragon X Plus - (16 GB/512 GB SSD/Windows 11 Home) SFG14-01-X9C8 Thin and Light L...",
+  "category": {
+    "main": "Laptops",
+    "sub": "Acer Laptops"
+  },
+  "brand": "Acer",
+  "price": 64990,
+  "rating": "4.2",
+  "image_url": "https://res.cloudinary.com/dljbnzwmr/image/upload/v1741600396/laptops/67bc41302e1bd48da3e34393.jpg",
+  "sold": 0,
+  "stock": 10,
+  "description": "The Acer Swift Go 14 is a premium thin-and-light laptop with excellent efficiency. Powered by a Snapdragon X Plus processor and 16 GB RAM, it offers seamless performance for professionals and creators on the go.",
+  "features": [
+    "Snapdragon X Plus processor",
+    "16 GB LPDDR5 RAM",
+    "512 GB NVMe SSD",
+    "14-inch Full HD+ display",
+    "Windows 11 Home",
+    "Aluminum chassis",
+    "Up to 14 hours battery life"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67bc41372e1bd48da3e34394"
+  },
+  "title": "ASUS Vivobook 15 Intel Core i5 12th Gen 1235U - (8 GB/512 GB SSD/Windows 11 Home) X1504ZA-NJ527WS|X150...",
+  "category": {
+    "main": "Laptops",
+    "sub": "ASUS Laptops"
+  },
+  "brand": "ASUS",
+  "price": 43990,
+  "rating": "4.2",
+  "image_url": "https://res.cloudinary.com/dljbnzwmr/image/upload/v1741600397/laptops/67bc41372e1bd48da3e34394.jpg",
+  "sold": 0,
+  "stock": 10,
+  "description": "The ASUS Vivobook 15 is a reliable laptop for work and entertainment. With a 12th Gen Intel Core i5-1235U processor, 8 GB RAM, and a 512 GB SSD, it offers smooth performance in a sleek, portable design.",
+  "features": [
+    "12th Gen Intel Core i5-1235U processor",
+    "8 GB DDR4 RAM",
+    "512 GB NVMe SSD",
+    "15.6-inch Full HD display",
+    "Windows 11 Home",
+    "ErgoSense keyboard",
+    "Up to 8 hours battery life"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67bc413d2e1bd48da3e34395"
+  },
+  "title": "Lenovo Chromebook MediaTek Kompanio 520 - (4 GB/128 GB EMMC Storage/Chrome OS) 14M868 Chromebook",
+  "category": {
+    "main": "Laptops",
+    "sub": "Lenovo Laptops"
+  },
+  "brand": "Lenovo",
+  "price": 13990,
+  "rating": "3.8",
+  "image_url": "https://res.cloudinary.com/dljbnzwmr/image/upload/v1741600398/laptops/67bc413d2e1bd48da3e34395.jpg",
+  "sold": 0,
+  "stock": 10,
+  "description": "The Lenovo Chromebook 14M868 is an affordable, lightweight laptop for students and casual users. Powered by a MediaTek Kompanio 520 processor and running Chrome OS, it’s optimized for cloud-based tasks and portability.",
+  "features": [
+    "MediaTek Kompanio 520 processor",
+    "4 GB LPDDR4 RAM",
+    "128 GB eMMC storage",
+    "14-inch HD display",
+    "Chrome OS",
+    "Lightweight design (approx. 1.4 kg)",
+    "Up to 12 hours battery life"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67bc41442e1bd48da3e34396"
+  },
+  "title": "HP Omen AMD Ryzen 7 Octa Core 7840HS - (16 GB/1 TB SSD/Windows 11 Home/6 GB Graphics/NVIDIA GeForce RT...",
+  "category": {
+    "main": "Laptops",
+    "sub": "HP Laptops"
+  },
+  "brand": "HP",
+  "price": 99990,
+  "rating": "4.5",
+  "image_url": "https://res.cloudinary.com/dljbnzwmr/image/upload/v1741600399/laptops/67bc41442e1bd48da3e34396.jpg",
+  "sold": 0,
+  "stock": 10,
+  "description": "The HP Omen is a premium gaming laptop designed for high-performance gaming. Featuring an AMD Ryzen 7 7840HS processor, 16 GB RAM, a 1 TB SSD, and a 6 GB NVIDIA GeForce RTX GPU, it delivers stunning visuals and speed.",
+  "features": [
+    "AMD Ryzen 7 Octa Core 7840HS processor",
+    "16 GB DDR5 RAM",
+    "1 TB NVMe SSD",
+    "16.1-inch Full HD 144Hz display",
+    "NVIDIA GeForce RTX 6 GB graphics",
+    "Windows 11 Home",
+    "Omen Tempest cooling technology"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67bc414a2e1bd48da3e34397"
+  },
+  "title": "CHUWI Intel Celeron Quad Core 12th Gen N100 - (8 GB/256 GB SSD/Windows 11 Home) GemiBook X_Pro Laptop",
+  "category": {
+    "main": "Laptops",
+    "sub": "CHUWI Laptops"
+  },
+  "brand": "CHUWI",
+  "price": 17990,
+  "rating": "4.1",
+  "image_url": "https://res.cloudinary.com/dljbnzwmr/image/upload/v1741600399/laptops/67bc414a2e1bd48da3e34397.jpg",
+  "sold": 0,
+  "stock": 10,
+  "description": "The CHUWI GemiBook X_Pro is a budget-friendly laptop for basic computing needs. Powered by a 12th Gen Intel Celeron N100 processor with 8 GB RAM and a 256 GB SSD, it’s ideal for students and light productivity tasks.",
+  "features": [
+    "12th Gen Intel Celeron Quad Core N100 processor",
+    "8 GB LPDDR4 RAM",
+    "256 GB SSD",
+    "14-inch 2K display",
+    "Windows 11 Home",
+    "Ultra-portable design",
+    "Up to 8 hours battery life"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67bc41522e1bd48da3e34398"
+  },
+  "title": "ASUS Vivobook 15 Intel Core i5 12th Gen 1235U - (16 GB/512 GB SSD/Windows 11 Home) X1502ZA-EJ545WS Thi...",
+  "category": {
+    "main": "Laptops",
+    "sub": "ASUS Laptops"
+  },
+  "brand": "ASUS",
+  "price": 46990,
+  "rating": "4.2",
+  "image_url": "https://res.cloudinary.com/dljbnzwmr/image/upload/v1741600400/laptops/67bc41522e1bd48da3e34398.jpg",
+  "sold": 0,
+  "stock": 10,
+  "description": "The ASUS Vivobook 15 is a powerful and stylish laptop for professionals and students. With a 12th Gen Intel Core i5-1235U processor, 16 GB RAM, and a 512 GB SSD, it offers excellent performance for multitasking and daily use.",
+  "features": [
+    "12th Gen Intel Core i5-1235U processor",
+    "16 GB DDR4 RAM",
+    "512 GB NVMe SSD",
+    "15.6-inch Full HD display",
+    "Windows 11 Home",
+    "Backlit keyboard",
+    "Up to 8 hours battery life"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67bc41582e1bd48da3e34399"
+  },
+  "title": "ASUS Vivobook 15 Intel Core i3 12th Gen 1215U - (16 GB/512 GB SSD/Windows 11 Home) X1502ZA-EJ993WS Thi...",
+  "category": {
+    "main": "Laptops",
+    "sub": "ASUS Laptops"
+  },
+  "brand": "ASUS",
+  "price": 37990,
+  "rating": "4.3",
+  "image_url": "https://res.cloudinary.com/dljbnzwmr/image/upload/v1741600401/laptops/67bc41582e1bd48da3e34399.jpg",
+  "sold": 0,
+  "stock": 10,
+  "description": "The ASUS Vivobook 15 is a versatile laptop for everyday tasks. Featuring a 12th Gen Intel Core i3-1215U processor, 16 GB RAM, and a 512 GB SSD, it’s perfect for students and professionals seeking performance and value.",
+  "features": [
+    "12th Gen Intel Core i3-1215U processor",
+    "16 GB DDR4 RAM",
+    "512 GB NVMe SSD",
+    "15.6-inch Full HD display",
+    "Windows 11 Home",
+    "ErgoSense keyboard",
+    "Up to 9 hours battery life"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67bc41602e1bd48da3e3439a"
+  },
+  "title": "HP Victus AI Powered AMD Ryzen 7 Octa Core 7840HS - (16 GB/512 GB SSD/Windows 11 Home/6 GB Graphics/NV...",
+  "category": {
+    "main": "Laptops",
+    "sub": "HP Laptops"
+  },
+  "brand": "HP",
+  "price": 74990,
+  "rating": "4.3",
+  "image_url": "https://res.cloudinary.com/dljbnzwmr/image/upload/v1741600402/laptops/67bc41602e1bd48da3e3439a.jpg",
+  "sold": 0,
+  "stock": 10,
+  "description": "The HP Victus is an AI-powered gaming laptop for immersive performance. With an AMD Ryzen 7 7840HS processor, 16 GB RAM, a 512 GB SSD, and a 6 GB NVIDIA GPU, it’s built for gaming and creative workloads.",
+  "features": [
+    "AMD Ryzen 7 Octa Core 7840HS processor",
+    "16 GB DDR5 RAM",
+    "512 GB NVMe SSD",
+    "15.6-inch Full HD 144Hz display",
+    "NVIDIA GeForce 6 GB graphics",
+    "Windows 11 Home",
+    "AI performance enhancement"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67bc41672e1bd48da3e3439b"
+  },
+  "title": "HP OMEN Intel Core i7 14th Gen 14650HX - (16 GB/1 TB SSD/Windows 11 Home/8 GB Graphics/NVIDIA GeForce ...",
+  "category": {
+    "main": "Laptops",
+    "sub": "HP Laptops"
+  },
+  "brand": "HP",
+  "price": 127490,
+  "rating": "4",
+  "image_url": "https://res.cloudinary.com/dljbnzwmr/image/upload/v1741600402/laptops/67bc41672e1bd48da3e3439b.jpg",
+  "sold": 0,
+  "stock": 10,
+  "description": "The HP OMEN is a top-tier gaming laptop with cutting-edge performance. Powered by a 14th Gen Intel Core i7-14650HX processor, 16 GB RAM, a 1 TB SSD, and an 8 GB NVIDIA GeForce GPU, it delivers unmatched gaming and multitasking capabilities.",
+  "features": [
+    "14th Gen Intel Core i7-14650HX processor",
+    "16 GB DDR5 RAM",
+    "1 TB NVMe SSD",
+    "16.1-inch QHD 165Hz display",
+    "NVIDIA GeForce 8 GB graphics",
+    "Windows 11 Home",
+    "Advanced cooling system"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67bc416d2e1bd48da3e3439c"
+  },
+  "title": "ASUS TUF Gaming A15 AMD Ryzen 7 Octa Core 7435HS - (8 GB/512 GB SSD/Windows 11 Home/4 GB Graphics/NVID...",
+  "category": {
+    "main": "Laptops",
+    "sub": "ASUS Laptops"
+  },
+  "brand": "ASUS",
+  "price": 52990,
+  "rating": "4.2",
+  "image_url": "https://res.cloudinary.com/dljbnzwmr/image/upload/v1741600403/laptops/67bc416d2e1bd48da3e3439c.jpg",
+  "sold": 0,
+  "stock": 10,
+  "description": "The ASUS TUF Gaming A15 is a durable gaming laptop built for performance. With an AMD Ryzen  he 7 7435HS processor, 8 GB RAM, a 512 GB SSD, and a 4 GB NVIDIA GPU, it offers reliable gaming and multitasking in a rugged design.",
+  "features": [
+    "AMD Ryzen 7 Octa Core 7435HS processor",
+    "8 GB DDR5 RAM",
+    "512 GB NVMe SSD",
+    "15.6-inch Full HD 144Hz display",
+    "NVIDIA GeForce 4 GB graphics",
+    "Windows 11 Home",
+    "Military-grade durability"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67bc41742e1bd48da3e3439d"
+  },
+  "title": "SAMSUNG Galaxy Book4 Metal Intel Core i3 13th Gen 1315U - (8 GB/512 GB SSD/Windows 11 Home) NP750XGJ-L...",
+  "category": {
+    "main": "Laptops",
+    "sub": "SAMSUNG Laptops"
+  },
+  "brand": "SAMSUNG",
+  "price": 37990,
+  "rating": "4.5",
+  "image_url": "https://res.cloudinary.com/dljbnzwmr/image/upload/v1741600404/laptops/67bc41742e1bd48da3e3439d.jpg",
+  "sold": 0,
+  "stock": 10,
+  "description": "The SAMSUNG Galaxy Book4 Metal is a sleek, premium laptop for productivity and entertainment. Powered by a 13th Gen Intel Core i3-1315U processor, 8 GB RAM, and a 512 GB SSD, it offers seamless performance in a lightweight metal chassis.",
+  "features": [
+    "13th Gen Intel Core i3-1315U processor",
+    "8 GB LPDDR4 RAM",
+    "512 GB NVMe SSD",
+    "15.6-inch Full HD AMOLED display",
+    "Windows 11 Home",
+    "Ultra-slim metal design",
+    "Up to 10 hours battery life"
+  ]
+}]

@@ -1,0 +1,552 @@
+[{
+  "_id": {
+    "$oid": "67bc4322b71e1130a6d588a4"
+  },
+  "title": "SAMSUNG Galaxy F06 5G (Bahama Blue, 128 GB)",
+  "brand": "SAMSUNG",
+  "price": 9999,
+  "rating": "4",
+  "image_url": "https://res.cloudinary.com/dljbnzwmr/image/upload/v1741600405/mobiles/67bc4322b71e1130a6d588a4.jpg",
+  "sold": 0,
+  "stock": 6,
+  "created_at": "2025-04-24T17:27:05.130Z",
+  "description": "The SAMSUNG Galaxy F06 5G in Bahama Blue is a budget-friendly 5G smartphone ideal for everyday use. With 128 GB storage and a vibrant display, it offers reliable performance for browsing, streaming, and social media.",
+  "features": [
+    "128 GB internal storage",
+    "6.6-inch HD+ display",
+    "MediaTek Dimensity 6020 processor",
+    "48 MP dual camera",
+    "5000mAh battery",
+    "5G connectivity",
+    "Android 14"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67bc4327b71e1130a6d588a5"
+  },
+  "title": "SAMSUNG Galaxy F05 (Twilight Blue, 64 GB)",
+  "brand": "SAMSUNG",
+  "price": 6299,
+  "rating": "4.2",
+  "image_url": "https://res.cloudinary.com/dljbnzwmr/image/upload/v1741600405/mobiles/67bc4327b71e1130a6d588a5.jpg",
+  "sold": 0,
+  "stock": 10,
+  "created_at": "2025-04-24T17:27:05.130Z",
+  "description": "The SAMSUNG Galaxy F05 in Twilight Blue is an affordable smartphone for basic tasks like calling, messaging, and light browsing. With 64 GB storage, it’s perfect for users seeking value and reliability.",
+  "features": [
+    "64 GB internal storage",
+    "6.5-inch HD+ display",
+    "MediaTek Helio G85 processor",
+    "13 MP dual camera",
+    "5000mAh battery",
+    "Android 14",
+    "Expandable storage up to 1 TB"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67bc432cb71e1130a6d588a6"
+  },
+  "title": "Motorola Edge 50 Fusion (Marshmallow Blue, 128 GB)",
+  "brand": "Motorola",
+  "price": 22999,
+  "rating": "4.5",
+  "image_url": "https://res.cloudinary.com/dljbnzwmr/image/upload/v1741600406/mobiles/67bc432cb71e1130a6d588a6.jpg",
+  "sold": 0,
+  "stock": 10,
+  "created_at": "2025-04-24T17:27:05.130Z",
+  "description": "The Motorola Edge 50 Fusion in Marshmallow Blue is a stylish mid-range smartphone with 5G support. Featuring 128 GB storage and a high-refresh-rate display, it’s ideal for gaming, streaming, and photography enthusiasts.",
+  "features": [
+    "128 GB internal storage",
+    "6.67-inch FHD+ OLED 144Hz display",
+    "Snapdragon 7 Gen 1 processor",
+    "50 MP triple camera with OIS",
+    "4400mAh battery with 68W fast charging",
+    "5G connectivity",
+    "Android 14"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67bc4332b71e1130a6d588a7"
+  },
+  "title": "POCO C61 (Diamond Dust Black, 64 GB)",
+  "brand": "POCO",
+  "price": 5899,
+  "rating": "4.2",
+  "image_url": "https://res.cloudinary.com/dljbnzwmr/image/upload/v1741600407/mobiles/67bc4332b71e1130a6d588a7.jpg",
+  "sold": 0,
+  "stock": 10,
+  "created_at": "2025-04-24T17:27:05.131Z",
+  "description": "The POCO C61 in Diamond Dust Black is an entry-level smartphone designed for budget-conscious users. With 64 GB storage and a sleek design, it handles daily tasks like messaging and social media with ease.",
+  "features": [
+    "64 GB internal storage",
+    "6.71-inch HD+ display",
+    "MediaTek Helio G36 processor",
+    "8 MP dual camera",
+    "5000mAh battery",
+    "Android 14",
+    "Expandable storage up to 512 GB"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67bc4337b71e1130a6d588a8"
+  },
+  "title": "OnePlus Nord CE4 lite 5G (SUPER SILVER, 128 GB)",
+  "brand": "OnePlus",
+  "price": 18490,
+  "rating": "4.4",
+  "image_url": "https://res.cloudinary.com/dljbnzwmr/image/upload/v1741600407/mobiles/67bc4337b71e1130a6d588a8.jpg",
+  "sold": 0,
+  "stock": 10,
+  "created_at": "2025-04-24T17:27:05.131Z",
+  "description": "The OnePlus Nord CE4 Lite 5G in Super Silver offers a blend of performance and affordability. With 128 GB storage and a smooth AMOLED display, it’s perfect for users seeking 5G connectivity and a premium experience.",
+  "features": [
+    "128 GB internal storage",
+    "6.59-inch AMOLED 120Hz display",
+    "Snapdragon 695 processor",
+    "50 MP dual camera",
+    "5000mAh battery with 33W fast charging",
+    "5G connectivity",
+    "OxygenOS 14"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67bc433cb71e1130a6d588a9"
+  },
+  "title": "Motorola Edge 50 Fusion (Hot Pink, 256 GB)",
+  "brand": "Motorola",
+  "price": 24999,
+  "rating": "4.4",
+  "image_url": "https://res.cloudinary.com/dljbnzwmr/image/upload/v1741600408/mobiles/67bc433cb71e1130a6d588a9.jpg",
+  "sold": 0,
+  "stock": 10,
+  "created_at": "2025-04-24T17:27:05.131Z",
+  "description": "The Motorola Edge 50 Fusion in Hot Pink is a premium mid-range 5G smartphone with 256 GB storage. Its vibrant OLED display and powerful camera make it ideal for content creators and tech enthusiasts.",
+  "features": [
+    "256 GB internal storage",
+    "6.67-inch FHD+ OLED 144Hz display",
+    "Snapdragon 7 Gen 1 processor",
+    "50 MP triple camera with OIS",
+    "4400mAh battery with 68W fast charging",
+    "5G connectivity",
+    "Android 14"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67bc4341b71e1130a6d588aa"
+  },
+  "title": "vivo T3 Ultra (Frost Green, 128 GB)",
+  "brand": "vivo",
+  "price": 29999,
+  "rating": "4.5",
+  "image_url": "https://res.cloudinary.com/dljbnzwmr/image/upload/v1741600408/mobiles/67bc4341b71e1130a6d588aa.jpg",
+  "sold": 0,
+  "stock": 10,
+  "created_at": "2025-04-24T17:27:05.131Z",
+  "description": "The vivo T3 Ultra in Frost Green is a high-performance 5G smartphone for power users. With 128 GB storage and a stunning AMOLED display, it’s perfect for gaming, photography, and multitasking.",
+  "features": [
+    "128 GB internal storage",
+    "6.78-inch AMOLED 120Hz display",
+    "MediaTek Dimensity 9200+ processor",
+    "64 MP triple camera with OIS",
+    "5000mAh battery with 44W fast charging",
+    "5G connectivity",
+    "Funtouch OS 14"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67bc4347b71e1130a6d588ab"
+  },
+  "title": "MOTOROLA g35 5G (Leaf Green, 128 GB)",
+  "brand": "MOTOROLA",
+  "price": 9999,
+  "rating": "4.2",
+  "image_url": "https://res.cloudinary.com/dljbnzwmr/image/upload/v1741600409/mobiles/67bc4347b71e1130a6d588ab.jpg",
+  "sold": 0,
+  "stock": 10,
+  "created_at": "2025-04-24T17:27:05.131Z",
+  "description": "The MOTOROLA g35 5G in Leaf Green is an affordable 5G smartphone for budget-conscious users. With 128 GB storage and a smooth display, it offers great value for streaming and daily tasks.",
+  "features": [
+    "128 GB internal storage",
+    "6.5-inch HD+ 90Hz display",
+    "MediaTek Dimensity 6020 processor",
+    "48 MP triple camera",
+    "5000mAh battery",
+    "5G connectivity",
+    "Android 14"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67bc434cb71e1130a6d588ac"
+  },
+  "title": "Motorola g45 5G (Viva Magenta, 128 GB)",
+  "brand": "Motorola",
+  "price": 10999,
+  "rating": "4.3",
+  "image_url": "https://res.cloudinary.com/dljbnzwmr/image/upload/v1741600410/mobiles/67bc434cb71e1130a6d588ac.jpg",
+  "sold": 0,
+  "stock": 10,
+  "created_at": "2025-04-24T17:27:05.131Z",
+  "description": "The Motorola g45 5G in Viva Magenta is a stylish budget 5G smartphone with 128 GB storage. Its vibrant display and reliable performance make it suitable for social media and casual gaming.",
+  "features": [
+    "128 GB internal storage",
+    "6.5-inch FHD+ 120Hz display",
+    "Snapdragon 6s Gen 1 processor",
+    "50 MP dual camera",
+    "5000mAh battery with 20W fast charging",
+    "5G connectivity",
+    "Android 14"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67bc4351b71e1130a6d588ad"
+  },
+  "title": "vivo T3 Pro 5G (Emerald Green, 256 GB)",
+  "brand": "vivo",
+  "price": 24999,
+  "rating": "4.5",
+  "image_url": "https://res.cloudinary.com/dljbnzwmr/image/upload/v1741600411/mobiles/67bc4351b71e1130a6d588ad.jpg",
+  "sold": 0,
+  "stock": 10,
+  "created_at": "2025-04-24T17:27:05.131Z",
+  "description": "The vivo T3 Pro 5G in Emerald Green is a premium mid-range smartphone with 256 GB storage. Its AMOLED display and fast processor make it ideal for gaming, photography, and multitasking.",
+  "features": [
+    "256 GB internal storage",
+    "6.77-inch AMOLED 120Hz display",
+    "Snapdragon 7 Gen 3 processor",
+    "64 MP triple camera",
+    "5500mAh battery with 44W fast charging",
+    "5G connectivity",
+    "Funtouch OS 14"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67bc4356b71e1130a6d588ae"
+  },
+  "title": "POCO C61 - Locked with Airtel Prepaid (Diamond Dust Black, 64 GB)",
+  "brand": "POCO",
+  "price": 5399,
+  "rating": "4.2",
+  "image_url": "https://res.cloudinary.com/dljbnzwmr/image/upload/v1741600411/mobiles/67bc4356b71e1130a6d588ae.jpg",
+  "sold": 0,
+  "stock": 10,
+  "created_at": "2025-04-24T17:27:05.131Z",
+  "description": "The POCO C61 in Diamond Dust Black is an ultra-affordable smartphone locked with Airtel Prepaid. With 64 GB storage, it’s designed for basic tasks like calling and messaging on a budget.",
+  "features": [
+    "64 GB internal storage",
+    "6.71-inch HD+ display",
+    "MediaTek Helio G36 processor",
+    "8 MP dual camera",
+    "5000mAh battery",
+    "Android 14",
+    "Airtel Prepaid lock"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67bc435bb71e1130a6d588af"
+  },
+  "title": "Motorola g45 5G (Brilliant Green, 128 GB)",
+  "brand": "Motorola",
+  "price": 10999,
+  "rating": "4.3",
+  "image_url": "https://res.cloudinary.com/dljbnzwmr/image/upload/v1741600412/mobiles/67bc435bb71e1130a6d588af.jpg",
+  "sold": 0,
+  "stock": 10,
+  "created_at": "2025-04-24T17:27:05.131Z",
+  "description": "The Motorola g45 5G in Brilliant Green is a budget-friendly 5G smartphone with 128 GB storage. Its smooth display and decent performance make it great for everyday use and light gaming.",
+  "features": [
+    "128 GB internal storage",
+    "6.5-inch FHD+ 120Hz display",
+    "Snapdragon 6s Gen 1 processor",
+    "50 MP dual camera",
+    "5000mAh battery with 20W fast charging",
+    "5G connectivity",
+    "Android 14"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67bc4363b71e1130a6d588b0"
+  },
+  "title": "Motorola g45 5G (Brilliant Green, 128 GB)",
+  "brand": "Motorola",
+  "price": 12999,
+  "rating": "4.4",
+  "image_url": "https://res.cloudinary.com/dljbnzwmr/image/upload/v1741600413/mobiles/67bc4363b71e1130a6d588b0.jpg",
+  "sold": 0,
+  "stock": 10,
+  "created_at": "2025-04-24T17:27:05.132Z",
+  "description": "The Motorola g45 5G in Brilliant Green offers enhanced features in a budget 5G smartphone. With 128 GB storage and a high-refresh-rate display, it’s ideal for users seeking performance and value.",
+  "features": [
+    "128 GB internal storage",
+    "6.5-inch FHD+ 120Hz display",
+    "Snapdragon 6s Gen 1 processor",
+    "50 MP triple camera",
+    "5000mAh battery with 20W fast charging",
+    "5G connectivity",
+    "Android 14"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67bc4368b71e1130a6d588b1"
+  },
+  "title": "OnePlus Nord CE4 lite 5G (MEGA BLUE, 128 GB)",
+  "brand": "OnePlus",
+  "price": 17790,
+  "rating": "4.4",
+  "image_url": "https://res.cloudinary.com/dljbnzwmr/image/upload/v1741600414/mobiles/67bc4368b71e1130a6d588b1.jpg",
+  "sold": 0,
+  "stock": 10,
+  "created_at": "2025-04-24T17:27:05.132Z",
+  "description": "The OnePlus Nord CE4 Lite 5G in Mega Blue is a budget-friendly 5G smartphone with 128 GB storage. Its AMOLED display and fast charging make it a great choice for streaming and daily use.",
+  "features": [
+    "128 GB internal storage",
+    "6.59-inch AMOLED 120Hz display",
+    "Snapdragon 695 processor",
+    "50 MP dual camera",
+    "5000mAh battery with 33W fast charging",
+    "5G connectivity",
+    "OxygenOS 14"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67bc436db71e1130a6d588b2"
+  },
+  "title": "MOTOROLA g05 (Plum Red, 64 GB)",
+  "brand": "MOTOROLA",
+  "price": 6999,
+  "rating": "4.3",
+  "image_url": "https://res.cloudinary.com/dljbnzwmr/image/upload/v1741600414/mobiles/67bc436db71e1130a6d588b2.jpg",
+  "sold": 0,
+  "stock": 10,
+  "created_at": "2025-04-24T17:27:05.132Z",
+  "description": "The MOTOROLA g05 in Plum Red is an affordable smartphone for basic needs like calling and browsing. With 64 GB storage, it offers reliable performance for budget-conscious users.",
+  "features": [
+    "64 GB internal storage",
+    "6.5-inch HD+ display",
+    "MediaTek Helio G85 processor",
+    "13 MP dual camera",
+    "5000mAh battery",
+    "Android 14",
+    "Expandable storage up to 1 TB"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67bc4372b71e1130a6d588b3"
+  },
+  "title": "MOTOROLA g05 (Forest Green, 64 GB)",
+  "brand": "MOTOROLA",
+  "price": 6999,
+  "rating": "4.3",
+  "image_url": "https://res.cloudinary.com/dljbnzwmr/image/upload/v1741600415/mobiles/67bc4372b71e1130a6d588b3.jpg",
+  "sold": 0,
+  "stock": 10,
+  "created_at": "2025-04-24T17:27:05.132Z",
+  "description": "The MOTOROLA g05 in Forest Green is a budget smartphone designed for everyday tasks. With 64 GB storage and a long-lasting battery, it’s perfect for users seeking affordability and reliability.",
+  "features": [
+    "64 GB internal storage",
+    "6.5-inch HD+ display",
+    "MediaTek Helio G85 processor",
+    "13 MP dual camera",
+    "5000mAh battery",
+    "Android 14",
+    "Expandable storage up to 1 TB"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67bc4378b71e1130a6d588b4"
+  },
+  "title": "Motorola Edge 50 Fusion (Forest Blue, 256 GB)",
+  "brand": "Motorola",
+  "price": 24999,
+  "rating": "4.4",
+  "image_url": "https://res.cloudinary.com/dljbnzwmr/image/upload/v1741600416/mobiles/67bc4378b71e1130a6d588b4.jpg",
+  "sold": 0,
+  "stock": 10,
+  "created_at": "2025-04-24T17:27:05.132Z",
+  "description": "The Motorola Edge 50 Fusion in Forest Blue is a premium 5G smartphone with 256 GB storage. Its high-refresh-rate OLED display and versatile camera system make it ideal for multimedia and gaming.",
+  "features": [
+    "256 GB internal storage",
+    "6.67-inch FHD+ OLED 144Hz display",
+    "Snapdragon 7 Gen 1 processor",
+    "50 MP triple camera with OIS",
+    "4400mAh battery with 68W fast charging",
+    "5G connectivity",
+    "Android 14"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67bc437db71e1130a6d588b5"
+  },
+  "title": "vivo T3x 5G (Celestial Green, 128 GB)",
+  "brand": "vivo",
+  "price": 12499,
+  "rating": "4.4",
+  "image_url": "https://res.cloudinary.com/dljbnzwmr/image/upload/v1741600417/mobiles/67bc437db71e1130a6d588b5.jpg",
+  "sold": 0,
+  "stock": 10,
+  "created_at": "2025-04-24T17:27:05.132Z",
+  "description": "The vivo T3x 5G in Celestial Green is a budget 5G smartphone with 128 GB storage. Its vibrant display and reliable performance make it suitable for streaming and casual gaming.",
+  "features": [
+    "128 GB internal storage",
+    "6.72-inch FHD+ 120Hz display",
+    "Snapdragon 6 Gen 1 processor",
+    "50 MP dual camera",
+    "6000mAh battery with 44W fast charging",
+    "5G connectivity",
+    "Funtouch OS 14"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67bc4383b71e1130a6d588b6"
+  },
+  "title": "realme P1 5G (Phoenix Red, 128 GB)",
+  "brand": "realme",
+  "price": 14999,
+  "rating": "4.4",
+  "image_url": "https://res.cloudinary.com/dljbnzwmr/image/upload/v1741600418/mobiles/67bc4383b71e1130a6d588b6.jpg",
+  "sold": 0,
+  "stock": 10,
+  "created_at": "2025-04-24T17:27:05.132Z",
+  "description": "The realme P1 5G in Phoenix Red is a stylish 5G smartphone with 128 GB storage. Its AMOLED display and fast processor deliver a smooth experience for gaming and multitasking.",
+  "features": [
+    "128 GB internal storage",
+    "6.67-inch AMOLED 120Hz display",
+    "MediaTek Dimensity 7050 processor",
+    "50 MP triple camera",
+    "5000mAh battery with 45W fast charging",
+    "5G connectivity",
+    "realme UI 5.0"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67bc4388b71e1130a6d588b7"
+  },
+  "title": "realme P1 5G (Feather Blue, 128 GB)",
+  "brand": "realme",
+  "price": 14999,
+  "rating": "4.4",
+  "image_url": "https://res.cloudinary.com/dljbnzwmr/image/upload/v1741600418/mobiles/67bc4388b71e1130a6d588b7.jpg",
+  "sold": 0,
+  "stock": 10,
+  "created_at": "2025-04-24T17:27:05.132Z",
+  "description": "The realme P1 5G in Feather Blue is a budget-friendly 5G smartphone with 128 GB storage. Its vibrant AMOLED display and reliable performance make it ideal for multimedia and daily use.",
+  "features": [
+    "128 GB internal storage",
+    "6.67-inch AMOLED 120Hz display",
+    "MediaTek Dimensity 7050 processor",
+    "50 MP triple camera",
+    "5000mAh battery with 45W fast charging",
+    "5G connectivity",
+    "realme UI 5.0"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67bc438db71e1130a6d588b8"
+  },
+  "title": "REDMI 13 5G (Orchid Pink, 128 GB)",
+  "brand": "REDMI",
+  "price": 12499,
+  "rating": "4.3",
+  "image_url": "https://res.cloudinary.com/dljbnzwmr/image/upload/v1741600419/mobiles/67bc438db71e1130a6d588b8.jpg",
+  "sold": 0,
+  "stock": 10,
+  "created_at": "2025-04-24T17:27:05.132Z",
+  "description": "The REDMI 13 5G in Orchid Pink is an affordable 5G smartphone with 128 GB storage. Its smooth display and decent camera system make it suitable for social media and casual photography.",
+  "features": [
+    "128 GB internal storage",
+    "6.79-inch FHD+ 90Hz display",
+    "Snapdragon 4 Gen 2 processor",
+    "108 MP dual camera",
+    "5000mAh battery with 33W fast charging",
+    "5G connectivity",
+    "MIUI 15"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67bc4393b71e1130a6d588b9"
+  },
+  "title": "Motorola g64 5G (Mint Green, 256 GB)",
+  "brand": "Motorola",
+  "price": 16999,
+  "rating": "4.2",
+  "image_url": "https://res.cloudinary.com/dljbnzwmr/image/upload/v1741600420/mobiles/67bc4393b71e1130a6d588b9.jpg",
+  "sold": 0,
+  "stock": 10,
+  "created_at": "2025-04-24T17:27:05.132Z",
+  "description": "The Motorola g64 5G in Mint Green is a mid-range 5G smartphone with 256 GB storage. Its high-refresh-rate display and robust performance make it great for gaming and multitasking.",
+  "features": [
+    "256 GB internal storage",
+    "6.5-inch FHD+ 120Hz display",
+    "MediaTek Dimensity 7025 processor",
+    "50 MP triple camera with OIS",
+    "6000mAh battery with 33W fast charging",
+    "5G connectivity",
+    "Android 14"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67bc4398b71e1130a6d588ba"
+  },
+  "title": "vivo T3x 5G (Sapphire Blue, 128 GB)",
+  "brand": "vivo",
+  "price": 13999,
+  "rating": "4.5",
+  "image_url": "https://res.cloudinary.com/dljbnzwmr/image/upload/v1741600421/mobiles/67bc4398b71e1130a6d588ba.jpg",
+  "sold": 0,
+  "stock": 10,
+  "created_at": "2025-04-24T17:27:05.133Z",
+  "description": "The vivo T3x 5G in Sapphire Blue is a budget 5G smartphone with 128 GB storage. Its large battery and smooth display make it ideal for streaming and extended use.",
+  "features": [
+    "128 GB internal storage",
+    "6.72-inch FHD+ 120Hz display",
+    "Snapdragon 6 Gen 1 processor",
+    "50 MP dual camera",
+    "6000mAh battery with 44W fast charging",
+    "5G connectivity",
+    "Funtouch OS 14"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67bc439db71e1130a6d588bb"
+  },
+  "title": "Motorola g64 5G (Ice Lilac, 128 GB)",
+  "brand": "Motorola",
+  "price": 14999,
+  "rating": "4.3",
+  "image_url": "https://res.cloudinary.com/dljbnzwmr/image/upload/v1741600421/mobiles/67bc439db71e1130a6d588bb.jpg",
+  "sold": 0,
+  "stock": 10,
+  "created_at": "2025-04-24T17:27:05.133Z",
+  "description": "The Motorola g64 5G in Ice Lilac is a value-packed 5G smartphone with 128 GB storage. Its vibrant display and strong battery life make it suitable for multimedia and daily tasks.",
+  "features": [
+    "128 GB internal storage",
+    "6.5-inch FHD+ 120Hz display",
+    "MediaTek Dimensity 7025 processor",
+    "50 MP triple camera with OIS",
+    "6000mAh battery with 33W fast charging",
+    "5G connectivity",
+    "Android 14"
+  ]
+}]

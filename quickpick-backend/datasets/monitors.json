@@ -1,0 +1,536 @@
+[{
+  "_id": {
+    "$oid": "680c8cf1a1cb261a4f79de67"
+  },
+  "title": "BenQ GW2490 60.96 cm (24 inch) Full HD LED Backlit IPS Panel 99% sRGB, Eye-careU, Dual HDMI, Display P...",
+  "category": {
+    "main": "Monitors",
+    "sub": "BenQ Monitors"
+  },
+  "brand": "BenQ",
+  "price": 8250,
+  "rating": "4.4",
+  "features": [
+    "Panel Type: IPS Panel",
+    "Screen Resolution Type: Full HD",
+    "Brightness: 250 nits",
+    "Response Time: 5 ms | Refresh Rate: 100 Hz",
+    "HDMI Ports - 2",
+    "39 Months Warranty"
+  ],
+  "image_url": "https://res.cloudinary.com/dljbnzwmr/image/upload/v1745653690/monitors/680c8cf1a1cb261a4f79de67.jpg",
+  "stock": 30
+},
+{
+  "_id": {
+    "$oid": "680c8cf7a1cb261a4f79de68"
+  },
+  "title": "MarQ by Flipkart 55.88 cm (22 inch) Full HD LED Backlit VA Panel Inbuilt Speakers Monitor (22FHDMEQNNX...",
+  "category": {
+    "main": "Monitors",
+    "sub": "MarQ by Flipkart Monitors"
+  },
+  "brand": "MarQ",
+  "price": 5299,
+  "rating": "4.3",
+  "features": [
+    "Panel Type: VA Panel",
+    "Screen Resolution Type: Full HD",
+    "Brightness: 300 nits",
+    "Response Time: 5 ms | Refresh Rate: 75 Hz",
+    "HDMI Ports - 1",
+    "1 Year Warranty"
+  ],
+  "image_url": "https://res.cloudinary.com/dljbnzwmr/image/upload/v1745653690/monitors/680c8cf7a1cb261a4f79de68.jpg",
+  "stock": 30
+},
+{
+  "_id": {
+    "$oid": "680c8cfda1cb261a4f79de69"
+  },
+  "title": "BenQ GW2490T 60.96 cm (24 inch) Full HD LED Backlit IPS Panel with 99% sRGB, Height Adjustable, Eye-ca...",
+  "category": {
+    "main": "Monitors",
+    "sub": "BenQ Monitors"
+  },
+  "brand": "BenQ",
+  "price": 10990,
+  "rating": "4.5",
+  "features": [
+    "Panel Type: IPS Panel",
+    "Screen Resolution Type: Full HD",
+    "Brightness: 250 nits",
+    "Response Time: 5 ms | Refresh Rate: 100 Hz",
+    "HDMI Ports - 2",
+    "3 Years Warranty"
+  ],
+  "image_url": "https://res.cloudinary.com/dljbnzwmr/image/upload/v1745653691/monitors/680c8cfda1cb261a4f79de69.jpg",
+  "stock": 30
+},
+{
+  "_id": {
+    "$oid": "680c8d02a1cb261a4f79de6a"
+  },
+  "title": "MarQ by Flipkart 55.88 cm (22 inch) Full HD IPS Panel Inbuilt Speakers Monitor (22FHDMEQNNXO)",
+  "category": {
+    "main": "Monitors",
+    "sub": "MarQ by Flipkart Monitors"
+  },
+  "brand": "MarQ",
+  "price": 5999,
+  "rating": "4.3",
+  "features": [
+    "Panel Type: IPS Panel",
+    "Screen Resolution Type: Full HD",
+    "Brightness: 300 Nits",
+    "Response Time: 1 ms | Refresh Rate: 100 Hz",
+    "1 Year Warranty"
+  ],
+  "image_url": "https://res.cloudinary.com/dljbnzwmr/image/upload/v1745653692/monitors/680c8d02a1cb261a4f79de6a.jpg",
+  "stock": 29
+},
+{
+  "_id": {
+    "$oid": "680c8d07a1cb261a4f79de6b"
+  },
+  "title": "ZEBRONICS 46.99 cm (18.5 inch) HD LED Backlit TN Panel HDMI, VGA Input, HD 1366 x 768, 16.7M Colors, G...",
+  "category": {
+    "main": "Monitors",
+    "sub": "ZEBRONICS Monitors"
+  },
+  "brand": "ZEBRONICS",
+  "price": 2899,
+  "rating": "3.9",
+  "features": [
+    "Panel Type: TN Panel",
+    "Screen Resolution Type: HD",
+    "Anti-Glare Screen",
+    "Response Time: 8 ms | Refresh Rate: 60 Hz",
+    "1 year carry into service center"
+  ],
+  "image_url": "https://res.cloudinary.com/dljbnzwmr/image/upload/v1745653693/monitors/680c8d07a1cb261a4f79de6b.jpg",
+  "stock": 30
+},
+{
+  "_id": {
+    "$oid": "680c8d0da1cb261a4f79de6c"
+  },
+  "title": "Frontech - 46.99 cm (18.5 inch) HD LED Backlit VA Panel Monitor (MON-0061)",
+  "category": {
+    "main": "Monitors",
+    "sub": "Frontech Monitors"
+  },
+  "brand": "Frontech",
+  "price": 2640,
+  "rating": "3.9",
+  "features": [
+    "Panel Type: VA Panel",
+    "Screen Resolution Type: HD",
+    "VGA Support",
+    "Brightness: 250 nits",
+    "Response Time: 5 ms | Refresh Rate: 60 Hz",
+    "HDMI Ports - 1",
+    "1 Year Warranty"
+  ],
+  "image_url": "https://res.cloudinary.com/dljbnzwmr/image/upload/v1745653694/monitors/680c8d0da1cb261a4f79de6c.jpg",
+  "stock": 30
+},
+{
+  "_id": {
+    "$oid": "680c8d13a1cb261a4f79de6d"
+  },
+  "title": "MarQ by Flipkart 60.96 cm (24 inch) Full HD LED Backlit VA Panel Monitor (24FHDMMQTT9B)",
+  "category": {
+    "main": "Monitors",
+    "sub": "MarQ by Flipkart Monitors"
+  },
+  "brand": "MarQ",
+  "price": 6099,
+  "rating": "4.3",
+  "features": [
+    "Panel Type: VA Panel",
+    "Screen Resolution Type: Full HD",
+    "Brightness: 250 nits",
+    "Response Time: 5 ms | Refresh Rate: 100 Hz",
+    "HDMI Ports - 1",
+    "1 Year Warranty"
+  ],
+  "image_url": "https://res.cloudinary.com/dljbnzwmr/image/upload/v1745653694/monitors/680c8d13a1cb261a4f79de6d.jpg",
+  "stock": 30
+},
+{
+  "_id": {
+    "$oid": "680c8d19a1cb261a4f79de6e"
+  },
+  "title": "Frontech 39.12 cm (15.4 inch) HD LED Backlit VA Panel Monitor (MON-0068)",
+  "category": {
+    "main": "Monitors",
+    "sub": "Frontech Monitors"
+  },
+  "brand": "Frontech",
+  "price": 2398,
+  "rating": "3.8",
+  "features": [
+    "Panel Type: VA Panel",
+    "Screen Resolution Type: HD",
+    "HDMI",
+    "Brightness: 220 nits",
+    "Response Time: 3 ms | Refresh Rate: 60 Hz",
+    "HDMI Ports - 1",
+    "1 Year Warranty"
+  ],
+  "image_url": "https://res.cloudinary.com/dljbnzwmr/image/upload/v1745653695/monitors/680c8d19a1cb261a4f79de6e.jpg",
+  "stock": 30
+},
+{
+  "_id": {
+    "$oid": "680c8d1fa1cb261a4f79de6f"
+  },
+  "title": "MarQ by Flipkart 68.58 cm (27 inch) Full HD LED Backlit VA Panel Monitor (27FHDMMQTT9B)",
+  "category": {
+    "main": "Monitors",
+    "sub": "MarQ by Flipkart Monitors"
+  },
+  "brand": "MarQ",
+  "price": 7099,
+  "rating": "4.3",
+  "features": [
+    "Panel Type: VA Panel",
+    "Screen Resolution Type: Full HD",
+    "Brightness: 250 nits",
+    "Response Time: 5 ms | Refresh Rate: 100 Hz",
+    "HDMI Ports - 1",
+    "1 Year Warranty"
+  ],
+  "image_url": "https://res.cloudinary.com/dljbnzwmr/image/upload/v1745653696/monitors/680c8d1fa1cb261a4f79de6f.jpg",
+  "stock": 30
+},
+{
+  "_id": {
+    "$oid": "680c8d29a1cb261a4f79de70"
+  },
+  "title": "Acer 68.58 cm (27 inch) WQHD LED Backlit IPS Panel with HDR10, 2X1W Inbuilt Speakers, Flicker , Blue L...",
+  "category": {
+    "main": "Monitors",
+    "sub": "Acer Monitors"
+  },
+  "brand": "Acer",
+  "price": 11999,
+  "rating": "4.4",
+  "features": [
+    "Panel Type: IPS Panel",
+    "Screen Resolution Type: WQHD",
+    "Brightness: 250 nits",
+    "Response Time: 1 ms | Refresh Rate: 100 Hz",
+    "3 Years Warranty"
+  ],
+  "image_url": "https://res.cloudinary.com/dljbnzwmr/image/upload/v1745653697/monitors/680c8d29a1cb261a4f79de70.jpg",
+  "stock": 30
+},
+{
+  "_id": {
+    "$oid": "680c8d2fa1cb261a4f79de71"
+  },
+  "title": "LG 54.48 cm (21.45 inch) Full HD VA Panel with 3-Side Borderless Display,Tilt-able Stand, Black Stabil...",
+  "category": {
+    "main": "Monitors",
+    "sub": "LG Monitors"
+  },
+  "brand": "LG",
+  "price": 6200,
+  "rating": "4.3",
+  "features": [
+    "Panel Type: VA Panel",
+    "Screen Resolution Type: Full HD",
+    "Brightness: 250 nits",
+    "Response Time: 5 ms | Refresh Rate: 100 Hz",
+    "3 Years Warranty"
+  ],
+  "image_url": "https://res.cloudinary.com/dljbnzwmr/image/upload/v1745653698/monitors/680c8d2fa1cb261a4f79de71.jpg",
+  "stock": 30
+},
+{
+  "_id": {
+    "$oid": "680c8d35a1cb261a4f79de72"
+  },
+  "title": "LG 60.45 cm (23.8 inch) Full HD IPS Panel with 3-Side Borderless Display,Tilt-able Stand, Black Stabil...",
+  "category": {
+    "main": "Monitors",
+    "sub": "LG Monitors"
+  },
+  "brand": "LG",
+  "price": 7599,
+  "rating": "4.3",
+  "features": [
+    "Panel Type: IPS Panel",
+    "Screen Resolution Type: Full HD",
+    "Brightness: 200 nits",
+    "Response Time: 5 ms | Refresh Rate: 100 Hz",
+    "3 Years Warranty"
+  ],
+  "image_url": "https://res.cloudinary.com/dljbnzwmr/image/upload/v1745653698/monitors/680c8d35a1cb261a4f79de72.jpg",
+  "stock": 30
+},
+{
+  "_id": {
+    "$oid": "680c8d3ba1cb261a4f79de73"
+  },
+  "title": "Acer 54.61 cm (21.5 inch) Full HD LED Backlit VA Panel with ZeroFrame Design, Ergonomic Stand, Acer Vi...",
+  "category": {
+    "main": "Monitors",
+    "sub": "Acer Monitors"
+  },
+  "brand": "Acer",
+  "price": 5619,
+  "rating": "4.4",
+  "features": [
+    "Panel Type: VA Panel",
+    "Screen Resolution Type: Full HD",
+    "Brightness: 250 nits",
+    "Response Time: 1 ms | Refresh Rate: 100 Hz",
+    "HDMI Ports - 1",
+    "3 Years Warranty Provided by the Manufacturer from Date of Purchase"
+  ],
+  "image_url": "https://res.cloudinary.com/dljbnzwmr/image/upload/v1745653699/monitors/680c8d3ba1cb261a4f79de73.jpg",
+  "stock": 30
+},
+{
+  "_id": {
+    "$oid": "680c8d40a1cb261a4f79de74"
+  },
+  "title": "LG 68.58 cm (27 inch) Full HD IPS Panel with 3-Side Borderless Display,Tilt-able Stand, Black Stabiliz...",
+  "category": {
+    "main": "Monitors",
+    "sub": "LG Monitors"
+  },
+  "brand": "LG",
+  "price": 9649,
+  "rating": "4.3",
+  "features": [
+    "Panel Type: IPS Panel",
+    "Screen Resolution Type: Full HD",
+    "Response Time: 5 ms | Refresh Rate: 100 Hz",
+    "3 Years Warranty"
+  ],
+  "image_url": "https://res.cloudinary.com/dljbnzwmr/image/upload/v1745653700/monitors/680c8d40a1cb261a4f79de74.jpg",
+  "stock": 30
+},
+{
+  "_id": {
+    "$oid": "680c8d46a1cb261a4f79de75"
+  },
+  "title": "ZEBRONICS 55.88 cm (22 inch) HD+ LED Backlit VA Panel with Dual Input HDMI & VGA, 16:10 Aspect ratio, ...",
+  "category": {
+    "main": "Monitors",
+    "sub": "ZEBRONICS Monitors"
+  },
+  "brand": "ZEBRONICS",
+  "price": 3999,
+  "rating": "3.6",
+  "features": [
+    "Panel Type: VA Panel",
+    "Screen Resolution Type: HD+",
+    "Brightness: 250 Nits",
+    "Response Time: 5 ms | Refresh Rate: 60 Hz",
+    "HDMI Ports - 1",
+    "1 Year Warranty"
+  ],
+  "image_url": "https://res.cloudinary.com/dljbnzwmr/image/upload/v1745653701/monitors/680c8d46a1cb261a4f79de75.jpg",
+  "stock": 30
+},
+{
+  "_id": {
+    "$oid": "680c8d4ca1cb261a4f79de76"
+  },
+  "title": "ZEBRONICS 76.2 cm (30 inch) Curved WFHD VA Panel with 300 Nits Brightness, HDR10, 99% sRGB, 95% DCI-P3...",
+  "category": {
+    "main": "Monitors",
+    "sub": "ZEBRONICS Monitors"
+  },
+  "brand": "ZEBRONICS",
+  "price": 17999,
+  "rating": "4.6",
+  "features": [
+    "Panel Type: VA Panel",
+    "Screen Resolution Type: WFHD",
+    "Brightness: 300 nits",
+    "Response Time: 1 ms | Refresh Rate: 200 Hz",
+    "1 year carry into service center"
+  ],
+  "image_url": "https://res.cloudinary.com/dljbnzwmr/image/upload/v1745653702/monitors/680c8d4ca1cb261a4f79de76.jpg",
+  "stock": 30
+},
+{
+  "_id": {
+    "$oid": "680c8d52a1cb261a4f79de77"
+  },
+  "title": "LG UltraGear 68.58 cm (27 inch) Curved Quad HD VA Panel with 1000R Curvature, HDR10, HDMI x 2, Display...",
+  "category": {
+    "main": "Monitors",
+    "sub": "LG Monitors"
+  },
+  "brand": "LG",
+  "price": 17399,
+  "rating": "N/A",
+  "features": [
+    "Panel Type: VA Panel",
+    "Screen Resolution Type: Quad HD",
+    "Brightness: 250 Nits",
+    "Response Time: 1 ms | Refresh Rate: 180 Hz",
+    "HDMI Ports - 2",
+    "3 Years Warranty On Parts and Labor"
+  ],
+  "image_url": "https://res.cloudinary.com/dljbnzwmr/image/upload/v1745653703/monitors/680c8d52a1cb261a4f79de77.jpg",
+  "stock": 30
+},
+{
+  "_id": {
+    "$oid": "680c8d57a1cb261a4f79de78"
+  },
+  "title": "Lenovo 54.61 cm (21.5 inch) Full HD VA Panel Monitor (L22e-40)",
+  "category": {
+    "main": "Monitors",
+    "sub": "Lenovo Monitors"
+  },
+  "brand": "Lenovo",
+  "price": 6499,
+  "rating": "4.5",
+  "features": [
+    "Panel Type: VA Panel",
+    "Screen Resolution Type: Full HD",
+    "Response Time: 4 ms | Refresh Rate: 60 Hz",
+    "3 Years Warranty"
+  ],
+  "image_url": "https://res.cloudinary.com/dljbnzwmr/image/upload/v1745653704/monitors/680c8d57a1cb261a4f79de78.jpg",
+  "stock": 30
+},
+{
+  "_id": {
+    "$oid": "680c8d5da1cb261a4f79de79"
+  },
+  "title": "Acer Vero Series 68.58 cm (27 inch) Full HD LED Backlit IPS Panel with Colorful Patterned Back Mood li...",
+  "category": {
+    "main": "Monitors",
+    "sub": "Acer Monitors"
+  },
+  "brand": "Acer",
+  "price": 8999,
+  "rating": "4.4",
+  "features": [
+    "Panel Type: IPS Panel",
+    "Screen Resolution Type: Full HD",
+    "Brightness: 250 nits",
+    "Response Time: 1 ms | Refresh Rate: 100 Hz",
+    "3 Years Warranty"
+  ],
+  "image_url": "https://res.cloudinary.com/dljbnzwmr/image/upload/v1745653704/monitors/680c8d5da1cb261a4f79de79.jpg",
+  "stock": 30
+},
+{
+  "_id": {
+    "$oid": "680c8d63a1cb261a4f79de7a"
+  },
+  "title": "Acer 54.61 cm (21.5 inch) Full HD LED Backlit IPS Panel with 99% sRGB, HDMI & VGA Ports, Eye Care Moni...",
+  "category": {
+    "main": "Monitors",
+    "sub": "Acer Monitors"
+  },
+  "brand": "Acer",
+  "price": 5998,
+  "rating": "4.3",
+  "features": [
+    "Panel Type: IPS Panel",
+    "Screen Resolution Type: Full HD",
+    "Response Time: 1 ms | Refresh Rate: 100 Hz",
+    "3 Years Warranty"
+  ],
+  "image_url": "https://res.cloudinary.com/dljbnzwmr/image/upload/v1745653705/monitors/680c8d63a1cb261a4f79de7a.jpg",
+  "stock": 30
+},
+{
+  "_id": {
+    "$oid": "680c8d68a1cb261a4f79de7b"
+  },
+  "title": "Lenovo 68.58 cm (27 inch) Full HD VA Panel with TUV Eye Care Monitor (D27-40/D27-30)",
+  "category": {
+    "main": "Monitors",
+    "sub": "Lenovo Monitors"
+  },
+  "brand": "Lenovo",
+  "price": 8099,
+  "rating": "4.3",
+  "features": [
+    "Panel Type: VA Panel",
+    "Screen Resolution Type: Full HD",
+    "Response Time: 4 ms | Refresh Rate: 75 Hz",
+    "3 Years Manufacturer Warranty"
+  ],
+  "image_url": "https://res.cloudinary.com/dljbnzwmr/image/upload/v1745653706/monitors/680c8d68a1cb261a4f79de7b.jpg",
+  "stock": 30
+},
+{
+  "_id": {
+    "$oid": "680c8d6ea1cb261a4f79de7c"
+  },
+  "title": "Lenovo L-Series 68.58 cm (27 inch) Full HD LED Backlit IPS Panel with 99% sRGB, 1xHDMI1.4, 1xVGA, Tilt...",
+  "category": {
+    "main": "Monitors",
+    "sub": "Lenovo Monitors"
+  },
+  "brand": "Lenovo",
+  "price": 11599,
+  "rating": "3.8",
+  "features": [
+    "Panel Type: IPS Panel",
+    "Screen Resolution Type: Full HD",
+    "Brightness: 300 nits",
+    "Response Time: 1 ms | Refresh Rate: 100 Hz",
+    "3 Years Warranty"
+  ],
+  "image_url": "https://res.cloudinary.com/dljbnzwmr/image/upload/v1745653707/monitors/680c8d6ea1cb261a4f79de7c.jpg",
+  "stock": 30
+},
+{
+  "_id": {
+    "$oid": "680c8d74a1cb261a4f79de7d"
+  },
+  "title": "ZEBRONICS Pure Pixel 60.96 cm (24 inch) Full HD VA Panel with 250 nits brightness, HDMI, VGA, Ultra Sl...",
+  "category": {
+    "main": "Monitors",
+    "sub": "ZEBRONICS Monitors"
+  },
+  "brand": "ZEBRONICS",
+  "price": 6999,
+  "rating": "4.2",
+  "features": [
+    "Panel Type: VA Panel",
+    "Screen Resolution Type: Full HD",
+    "Brightness: 250 nits",
+    "Response Time: 12 ms | Refresh Rate: 100 Hz",
+    "1 year carry into service center"
+  ],
+  "image_url": "https://res.cloudinary.com/dljbnzwmr/image/upload/v1745653708/monitors/680c8d74a1cb261a4f79de7d.jpg",
+  "stock": 30
+},
+{
+  "_id": {
+    "$oid": "680c8d79a1cb261a4f79de7e"
+  },
+  "title": "MarQ by Flipkart 60.96 cm (24 inch) Full HD IPS Panel Inbuilt Speakers Monitor (24FHDMEQNNXO)",
+  "category": {
+    "main": "Monitors",
+    "sub": "MarQ by Flipkart Monitors"
+  },
+  "brand": "MarQ",
+  "price": 6499,
+  "rating": "4.3",
+  "features": [
+    "Panel Type: IPS Panel",
+    "Screen Resolution Type: Full HD",
+    "Brightness: 300 Nits",
+    "Response Time: 1 ms | Refresh Rate: 100 Hz",
+    "1 Year Warranty"
+  ],
+  "image_url": "https://res.cloudinary.com/dljbnzwmr/image/upload/v1745653708/monitors/680c8d79a1cb261a4f79de7e.jpg",
+  "stock": 30
+}]

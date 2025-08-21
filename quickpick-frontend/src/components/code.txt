@@ -1,0 +1,156 @@
+import { useParams, useNavigate } from 'react-router-dom';
+import { useEffect, useState } from 'react';
+import axios from 'axios';
+
+const ProductDetailPage = () => {
+  const { category, id } = useParams();
+  const navigate = useNavigate();
+  const [product, setProduct] = useState(null);
+  const [userAddress, setUserAddress] = useState("");
+  const token = localStorage.getItem("token");
+
+  const API_BASE = "http://localhost:5000";
+
+  // Fetch product details
+  useEffect(() => {
+    const fetchProduct = async () => {
+      try {
+        const res = await axios.get(`${API_BASE}/api/products/${category}/${id}`);
+        setProduct(res.data);
+      } catch (err) {
+        console.error("Error fetching product:", err);
+      }
+    };
+    fetchProduct();
+  }, [category, id]);
+
+  // Fetch user address from profile
+  useEffect(() => {
+    if (token) {
+      axios
+        .get(`${API_BASE}/api/user/profile`, {
+          headers: { Authorization: `Bearer ${token}` }
+        })
+        .then((res) => setUserAddress(res.data.address || ""))
+        .catch((err) => console.error("Profile fetch error:", err));
+    }
+  }, [token]);
+
+   const handleAddToCart = async () => {
+    if (!token) {
+      alert("Please log in to add products to cart.");
+      return;
+    }
+
+    try {
+      await axios.post(
+        "/api/cart",
+        {
+          productId: product._id,
+          quantity: 1,
+          collectionName: category, // use category from params
+        },
+        { headers: { Authorization: `Bearer ${token}` } }
+      );
+      alert("Product added to cart");
+    } catch (err) {
+      console.error("Add to cart error:", err.response?.data || err.message);
+      alert("Failed to add product to cart. Please try again.");
+    }
+  };
+
+
+
+const { category: categoryParam } = useParams();
+
+const handleBuyNow = async () => {
+  console.log("Buy Now clicked:", { token, userAddress, product, category });
+
+  if (!token) {
+    alert("Please log in to buy products.");
+    return;
+  }
+  if (!userAddress) {
+    alert("Please update your address in Profile before buying.");
+    return;
+  }
+  if (!product?._id || !product?.price) {
+    alert("Invalid product. Cannot buy.");
+    return;
+  }
+
+  try {
+    await axios.post(
+      `${API_BASE}/api/orders`,
+      {
+        items: [
+          {
+            productId: product._id,
+            quantity: 1,
+            collectionName: category
+          }
+        ],
+        totalPrice: product.price,
+        shippingAddress: userAddress
+      },
+      { headers: { Authorization: `Bearer ${token}` } }
+    );
+
+    alert("Order placed successfully");
+  } catch (err) {
+    console.error("Buy Now error:", err.response?.data || err.message);
+    alert("Failed to place order. Please try again.");
+  }
+};
+
+
+
+  if (!product) return <p className="p-6">Loading...</p>;
+
+  return (
+    <div className="p-8 grid grid-cols-1 md:grid-cols-2 gap-8 bg-white min-h-screen">
+      <div>
+        <img src={product.image_url} alt={product.title} className="w-full max-w-md mx-auto" />
+        <div className="mt-6 flex justify-center gap-4">
+          <button onClick={handleAddToCart} className="bg-black text-white px-6 py-2 rounded">
+            Add to Cart
+          </button>
+          <button onClick={handleBuyNow} className="bg-black text-white font-semibold px-6 py-2 rounded">
+            Buy Now
+          </button>
+        </div>
+      </div>
+
+      <div>
+        <h1 className="text-2xl font-semibold">{product.title}</h1>
+        <p className="text-gray-600 mt-2"><strong>Brand:</strong> {product.brand}</p>
+        <p className="text-green-600 font-semibold mt-2">Special Offer</p>
+        <p className="text-2xl font-bold text-black mt-2">₹{product.price}</p>
+        <p className="bg-green-200 text-green-800 font-medium inline-block px-2 py-1 rounded mt-2">
+          {product.rating} / 5
+        </p>
+        <p className="mt-2 text-gray-700"><strong>Available Qty:</strong> {product.available_quantity || 30}</p>
+
+        <hr className="my-4" />
+
+        <div>
+          <h3 className="font-bold mb-1">Product Details</h3>
+          <p className="text-gray-700">{product.description}</p>
+        </div>
+
+        {product.features?.length > 0 && (
+          <div className="mt-6">
+            <h3 className="font-bold mb-2">Key Features</h3>
+            <ul className="list-disc pl-5 space-y-1 text-gray-700">
+              {product.features.map((f, i) => (
+                <li key={i}>{f}</li>
+              ))}
+            </ul>
+          </div>
+        )}
+      </div>
+    </div>
+  );
+};
+
+export default ProductDetailPage;

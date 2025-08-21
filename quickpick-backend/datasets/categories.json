@@ -1,0 +1,229 @@
+[{
+  "_id": {
+    "$oid": "67cbc6cb204148a29eada5b3"
+  },
+  "name": "tv",
+  "aliases": [
+    "television",
+    "smart tv",
+    "led tv",
+    "lcd tv",
+    "oled tv",
+    "qled tv",
+    "plasma tv",
+    "android tv",
+    "apple tv",
+    "fire tv",
+    "google tv",
+    "samsung tv",
+    "lg tv",
+    "sony bravia",
+    "tcl tv",
+    "hisense tv",
+    "4k tv",
+    "8k tv",
+    "hdr tv",
+    "ultra hd tv",
+    "full hd tv",
+    "curved tv",
+    "flat screen tv",
+    "home theater tv",
+    "telly",
+    "flat panel tv",
+    "box"
+  ],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67cbcdc5ac1a2a2fba3d68b4"
+  },
+  "name": "laptops",
+  "aliases": [
+    "notebook",
+    "ultrabook",
+    "macbook",
+    "gaming laptop",
+    "business laptop",
+    "chromebook",
+    "2-in-1 laptop",
+    "convertible laptop",
+    "thin and light laptop",
+    "portable computer"
+  ],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67cbcddbac1a2a2fba3d68b6"
+  },
+  "name": "mobiles",
+  "aliases": [
+    "smartphone",
+    "cell phone",
+    "android phone",
+    "iphone",
+    "feature phone",
+    "touchscreen phone",
+    "handset",
+    "mobile device",
+    "wireless phone",
+    "foldable phone"
+  ],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "680c5ed2021b506564e6d48a"
+  },
+  "name": "fashions",
+  "aliases": [
+    "fashion",
+    "new tshirts",
+    "tshirts"
+  ]
+},
+{
+  "_id": {
+    "$oid": "680cab231b4144072d12ba76"
+  },
+  "name": "teddy",
+  "aliases": [
+    "teddy",
+    "teddy bear",
+    "cute teddy",
+    "soft toy",
+    "plush teddy",
+    "stuffed teddy",
+    "cuddly toy",
+    "soft teddy bear",
+    "kids teddy",
+    "gift teddy"
+  ]
+},
+{
+  "_id": {
+    "$oid": "680cab831b4144072d12ba77"
+  },
+  "name": "appliances",
+  "aliases": [
+    "appliances",
+    "home appliances",
+    "kitchen appliances",
+    "electronic appliances",
+    "household appliances",
+    "small appliances",
+    "large appliances",
+    "smart appliances",
+    "cooking appliances",
+    "energy efficient appliances"
+  ]
+},
+{
+  "_id": {
+    "$oid": "680caba81b4144072d12ba78"
+  },
+  "name": "kitchens",
+  "aliases": [
+    "kitchens",
+    "kitchen essentials",
+    "modular kitchens",
+    "kitchen furniture",
+    "kitchen setup",
+    "kitchen decor",
+    "kitchen accessories",
+    "kitchen storage",
+    "kitchenware",
+    "modern kitchens"
+  ]
+},
+{
+  "_id": {
+    "$oid": "680cabd91b4144072d12ba79"
+  },
+  "name": "toys",
+  "aliases": [
+    "toys",
+    "kids toys",
+    "baby toys",
+    "educational toys",
+    "action figures",
+    "toy sets",
+    "fun toys",
+    "soft toys",
+    "remote control toys",
+    "outdoor toys"
+  ]
+},
+{
+  "_id": {
+    "$oid": "680cae8e1b4144072d12ba7a"
+  },
+  "name": "monitors",
+  "aliases": [
+    "monitors",
+    "computer monitors",
+    "gaming monitors",
+    "LCD monitors",
+    "LED monitors",
+    "4K monitors",
+    "ultrawide monitors",
+    "curved monitors",
+    "desktop monitors",
+    "office monitors"
+  ]
+},
+{
+  "_id": {
+    "$oid": "680caebb1b4144072d12ba7b"
+  },
+  "name": "plastic_toys",
+  "aliases": [
+    "plastic cars",
+    "toy cars",
+    "kids plastic cars",
+    "miniature plastic cars",
+    "small plastic cars",
+    "plastic toy vehicles",
+    "plastic racing cars",
+    "plastic model cars",
+    "children's plastic cars",
+    "plastic ride-on cars"
+  ]
+},
+{
+  "_id": {
+    "$oid": "680caeda1b4144072d12ba7c"
+  },
+  "name": "remote_cars",
+  "aliases": [
+    "remote cars",
+    "remote control cars",
+    "rc cars",
+    "remote toy cars",
+    "wireless cars",
+    "remote operated cars",
+    "rc toy vehicles",
+    "remote racing cars",
+    "radio control cars",
+    "remote driving cars"
+  ]
+},
+{
+  "_id": {
+    "$oid": "680caf5a1b4144072d12ba7d"
+  },
+  "name": "stationaries",
+  "aliases": [
+    "stationaries",
+    "stationery items",
+    "office supplies",
+    "school supplies",
+    "writing materials",
+    "paper products",
+    "notebooks and pens",
+    "stationery kits",
+    "art supplies",
+    "desk supplies"
+  ]
+}]

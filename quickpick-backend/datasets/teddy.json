@@ -1,0 +1,600 @@
+[{
+  "_id": {
+    "$oid": "680ca70884098cdd76adb163"
+  },
+  "title": "FOOFII Big Size Cutest & Premium Quality Teddy Bear A P...",
+  "brand": "FOOFII",
+  "rating": "3.6",
+  "price": 251,
+  "image_url": "https://res.cloudinary.com/dljbnzwmr/image/upload/v1745659822/teddy/680ca70884098cdd76adb163.jpg",
+  "category": {
+    "main": "Teddy",
+    "sub": "FOOFII Teddy"
+  },
+  "stock": 43
+},
+{
+  "_id": {
+    "$oid": "680ca70884098cdd76adb164"
+  },
+  "title": "eston Teddy Bear 3 feet Pink Soft Toy | Birthday Gift f...",
+  "brand": "eston",
+  "rating": "3.8",
+  "price": 229,
+  "image_url": "https://res.cloudinary.com/dljbnzwmr/image/upload/v1745659823/teddy/680ca70884098cdd76adb164.jpg",
+  "category": {
+    "main": "Teddy",
+    "sub": "eston Teddy"
+  },
+  "stock": 43
+},
+{
+  "_id": {
+    "$oid": "680ca70884098cdd76adb165"
+  },
+  "title": "Osjs SOFT TOYS LOVER teddy bear size 3 feet - 90.2 cm",
+  "brand": "Osjs",
+  "rating": "3.9",
+  "price": 244,
+  "image_url": "https://res.cloudinary.com/dljbnzwmr/image/upload/v1745659824/teddy/680ca70884098cdd76adb165.jpg",
+  "category": {
+    "main": "Teddy",
+    "sub": "Osjs Teddy"
+  },
+  "stock": 43
+},
+{
+  "_id": {
+    "$oid": "680ca70884098cdd76adb166"
+  },
+  "title": "Dani Daniels 3 Feet Very Cute Long Soft Hugable America...",
+  "brand": "Dani",
+  "rating": "3.7",
+  "price": 242,
+  "image_url": "https://res.cloudinary.com/dljbnzwmr/image/upload/v1745659825/teddy/680ca70884098cdd76adb166.jpg",
+  "category": {
+    "main": "Teddy",
+    "sub": "Dani Teddy"
+  },
+  "stock": 43
+},
+{
+  "_id": {
+    "$oid": "680ca70984098cdd76adb167"
+  },
+  "title": "Fun & Joy Cute Soft Pink Teddy Bear With Heart Balloon ...",
+  "brand": "Fun",
+  "rating": "3.8",
+  "price": 165,
+  "image_url": "https://res.cloudinary.com/dljbnzwmr/image/upload/v1745659826/teddy/680ca70984098cdd76adb167.jpg",
+  "category": {
+    "main": "Teddy",
+    "sub": "Fun Teddy"
+  },
+  "stock": 43
+},
+{
+  "_id": {
+    "$oid": "680ca70984098cdd76adb168"
+  },
+  "title": "snuglystuff Cute Lena Teddy Bear, Removable Cap, Stuffe...",
+  "brand": "snuglystuff",
+  "rating": "4.6",
+  "price": 594,
+  "image_url": "https://res.cloudinary.com/dljbnzwmr/image/upload/v1745659827/teddy/680ca70984098cdd76adb168.jpg",
+  "category": {
+    "main": "Teddy",
+    "sub": "snuglystuff Teddy"
+  },
+  "stock": 43
+},
+{
+  "_id": {
+    "$oid": "680ca70984098cdd76adb169"
+  },
+  "title": "Kiddie Castle Teddy Bear Red Colors Size 3 Feet - 36 i...",
+  "brand": "Kiddie",
+  "rating": "3.5",
+  "price": 259,
+  "image_url": "https://res.cloudinary.com/dljbnzwmr/image/upload/v1745659828/teddy/680ca70984098cdd76adb169.jpg",
+  "category": {
+    "main": "Teddy",
+    "sub": "Kiddie Teddy"
+  },
+  "stock": 43
+},
+{
+  "_id": {
+    "$oid": "680ca70984098cdd76adb16a"
+  },
+  "title": "SK TOYS Plush Teddy Bear, Red Soft Fur, Heart Pattern T...",
+  "brand": "SK",
+  "rating": "3.5",
+  "price": 1399,
+  "image_url": "https://res.cloudinary.com/dljbnzwmr/image/upload/v1745659829/teddy/680ca70984098cdd76adb16a.jpg",
+  "category": {
+    "main": "Teddy",
+    "sub": "SK Teddy"
+  },
+  "stock": 43
+},
+{
+  "_id": {
+    "$oid": "680ca70984098cdd76adb16b"
+  },
+  "title": "Macros Classic Super Soft Complete Family Pack Combo of...",
+  "brand": "Macros",
+  "rating": "4",
+  "price": 348,
+  "image_url": "https://res.cloudinary.com/dljbnzwmr/image/upload/v1745659830/teddy/680ca70984098cdd76adb16b.jpg",
+  "category": {
+    "main": "Teddy",
+    "sub": "Macros Teddy"
+  },
+  "stock": 43
+},
+{
+  "_id": {
+    "$oid": "680ca70984098cdd76adb16c"
+  },
+  "title": "RSS SOFT TOYS Adorable Teddy Bear Purple Color Medium S...",
+  "brand": "RSS",
+  "rating": "3.5",
+  "price": 255,
+  "image_url": "https://res.cloudinary.com/dljbnzwmr/image/upload/v1745659831/teddy/680ca70984098cdd76adb16c.jpg",
+  "category": {
+    "main": "Teddy",
+    "sub": "RSS Teddy"
+  },
+  "stock": 43
+},
+{
+  "_id": {
+    "$oid": "680ca70984098cdd76adb16d"
+  },
+  "title": "TRUELOVER 4.5 feet pink teddy bear / high quality / nec...",
+  "brand": "TRUELOVER",
+  "rating": "3.9",
+  "price": 498,
+  "image_url": "https://res.cloudinary.com/dljbnzwmr/image/upload/v1745659831/teddy/680ca70984098cdd76adb16d.jpg",
+  "category": {
+    "main": "Teddy",
+    "sub": "TRUELOVER Teddy"
+  },
+  "stock": 43
+},
+{
+  "_id": {
+    "$oid": "680ca70984098cdd76adb16e"
+  },
+  "title": "eston 4feet pink beautifull&best quality teddy bear bes...",
+  "brand": "eston",
+  "rating": "4",
+  "price": 357,
+  "image_url": "https://res.cloudinary.com/dljbnzwmr/image/upload/v1745659832/teddy/680ca70984098cdd76adb16e.jpg",
+  "category": {
+    "main": "Teddy",
+    "sub": "eston Teddy"
+  },
+  "stock": 43
+},
+{
+  "_id": {
+    "$oid": "680ca70984098cdd76adb16f"
+  },
+  "title": "Osjs 3 Feet Stuffed Spongy Hugable Cute Teddy Bear Cudd...",
+  "brand": "Osjs",
+  "rating": "3.7",
+  "price": 240,
+  "image_url": "https://res.cloudinary.com/dljbnzwmr/image/upload/v1745659833/teddy/680ca70984098cdd76adb16f.jpg",
+  "category": {
+    "main": "Teddy",
+    "sub": "Osjs Teddy"
+  },
+  "stock": 43
+},
+{
+  "_id": {
+    "$oid": "680ca70a84098cdd76adb170"
+  },
+  "title": "msy 3 Feet/ 91cm Skin Friendly Ultra Soft Giant Stuffed...",
+  "brand": "msy",
+  "rating": "3.7",
+  "price": 260,
+  "image_url": "https://res.cloudinary.com/dljbnzwmr/image/upload/v1745659835/teddy/680ca70a84098cdd76adb170.jpg",
+  "category": {
+    "main": "Teddy",
+    "sub": "msy Teddy"
+  },
+  "stock": 43
+},
+{
+  "_id": {
+    "$oid": "680ca70a84098cdd76adb171"
+  },
+  "title": "vtb retail 3 feet teddy bear for Anniversary & birthday...",
+  "brand": "vtb",
+  "rating": "3.7",
+  "price": 244,
+  "image_url": "https://res.cloudinary.com/dljbnzwmr/image/upload/v1745659837/teddy/680ca70a84098cdd76adb171.jpg",
+  "category": {
+    "main": "Teddy",
+    "sub": "vtb Teddy"
+  },
+  "stock": 43
+},
+{
+  "_id": {
+    "$oid": "680ca70a84098cdd76adb172"
+  },
+  "title": "Ziraat Cool Yellow 3 Feet Teddy Bear Yellow - 36 inch",
+  "brand": "Ziraat",
+  "rating": "4.1",
+  "price": 279,
+  "image_url": "https://res.cloudinary.com/dljbnzwmr/image/upload/v1745659837/teddy/680ca70a84098cdd76adb172.jpg",
+  "category": {
+    "main": "Teddy",
+    "sub": "Ziraat Teddy"
+  },
+  "stock": 43
+},
+{
+  "_id": {
+    "$oid": "680ca70a84098cdd76adb173"
+  },
+  "title": "TRUELOVER 4 feet pink teddy bear cute and soft teddy be...",
+  "brand": "TRUELOVER",
+  "rating": "3.8",
+  "price": 498,
+  "image_url": "https://res.cloudinary.com/dljbnzwmr/image/upload/v1745659838/teddy/680ca70a84098cdd76adb173.jpg",
+  "category": {
+    "main": "Teddy",
+    "sub": "TRUELOVER Teddy"
+  },
+  "stock": 43
+},
+{
+  "_id": {
+    "$oid": "680ca70a84098cdd76adb174"
+  },
+  "title": "Tedstree 3 Feet Yellow Teddy Bear Huggable/Valentine/Lo...",
+  "brand": "Tedstree",
+  "rating": "4",
+  "price": 281,
+  "image_url": "https://res.cloudinary.com/dljbnzwmr/image/upload/v1745659839/teddy/680ca70a84098cdd76adb174.jpg",
+  "category": {
+    "main": "Teddy",
+    "sub": "Tedstree Teddy"
+  },
+  "stock": 43
+},
+{
+  "_id": {
+    "$oid": "680ca70a84098cdd76adb175"
+  },
+  "title": "Krishna Creation Big & Adorable Red Teddy | Soft Plush ...",
+  "brand": "Krishna",
+  "rating": "4",
+  "price": 703,
+  "image_url": "https://res.cloudinary.com/dljbnzwmr/image/upload/v1745659840/teddy/680ca70a84098cdd76adb175.jpg",
+  "category": {
+    "main": "Teddy",
+    "sub": "Krishna Teddy"
+  },
+  "stock": 43
+},
+{
+  "_id": {
+    "$oid": "680ca70a84098cdd76adb176"
+  },
+  "title": "CRAZY DIPS Teddy Bear 3 feet Stuffed Animals Plush Toy ...",
+  "brand": "CRAZY",
+  "rating": "3.8",
+  "price": 239,
+  "image_url": "https://res.cloudinary.com/dljbnzwmr/image/upload/v1745659841/teddy/680ca70a84098cdd76adb176.jpg",
+  "category": {
+    "main": "Teddy",
+    "sub": "CRAZY Teddy"
+  },
+  "stock": 43
+},
+{
+  "_id": {
+    "$oid": "680ca70a84098cdd76adb177"
+  },
+  "title": "DOGEE Teddy Bear 3 feet Red Soft Toy | Birthday Gift fo...",
+  "brand": "DOGEE",
+  "rating": "3.9",
+  "price": 242,
+  "image_url": "https://res.cloudinary.com/dljbnzwmr/image/upload/v1745659842/teddy/680ca70a84098cdd76adb177.jpg",
+  "category": {
+    "main": "Teddy",
+    "sub": "DOGEE Teddy"
+  },
+  "stock": 43
+},
+{
+  "_id": {
+    "$oid": "680ca70b84098cdd76adb178"
+  },
+  "title": "DOGEE Teddy Bear 3 Feet Soft Toy | Birthday Gift for Gi...",
+  "brand": "DOGEE",
+  "rating": "3.7",
+  "price": 242,
+  "image_url": "https://res.cloudinary.com/dljbnzwmr/image/upload/v1745659843/teddy/680ca70b84098cdd76adb178.jpg",
+  "category": {
+    "main": "Teddy",
+    "sub": "DOGEE Teddy"
+  },
+  "stock": 43
+},
+{
+  "_id": {
+    "$oid": "680ca70b84098cdd76adb179"
+  },
+  "title": "Ziraat New Pink teddy bear 3 feet for gift - 90 cm",
+  "brand": "Ziraat",
+  "rating": "3.9",
+  "price": 228,
+  "image_url": "https://res.cloudinary.com/dljbnzwmr/image/upload/v1745659844/teddy/680ca70b84098cdd76adb179.jpg",
+  "category": {
+    "main": "Teddy",
+    "sub": "Ziraat Teddy"
+  },
+  "stock": 43
+},
+{
+  "_id": {
+    "$oid": "680ca70b84098cdd76adb17a"
+  },
+  "title": "msy Blue shed 3 feet Tedst bear for valentine & Anniver...",
+  "brand": "msy",
+  "rating": "3.8",
+  "price": 274,
+  "image_url": "https://res.cloudinary.com/dljbnzwmr/image/upload/v1745659845/teddy/680ca70b84098cdd76adb17a.jpg",
+  "category": {
+    "main": "Teddy",
+    "sub": "msy Teddy"
+  },
+  "stock": 43
+},
+{
+  "_id": {
+    "$oid": "680ca70b84098cdd76adb17b"
+  },
+  "title": "JOT 2 Teddy bears on Tricycle, Symbol of Love - 38",
+  "brand": "JOT",
+  "rating": "4.1",
+  "price": 299,
+  "image_url": "https://res.cloudinary.com/dljbnzwmr/image/upload/v1745659846/teddy/680ca70b84098cdd76adb17b.jpg",
+  "category": {
+    "main": "Teddy",
+    "sub": "JOT Teddy"
+  },
+  "stock": 43
+},
+{
+  "_id": {
+    "$oid": "680ca70b84098cdd76adb17c"
+  },
+  "title": "Ziraat 4 ft Soft Color Teddy Bear For Gift To Someone S...",
+  "brand": "Ziraat",
+  "rating": "3.8",
+  "price": 361,
+  "image_url": "https://res.cloudinary.com/dljbnzwmr/image/upload/v1745659847/teddy/680ca70b84098cdd76adb17c.jpg",
+  "category": {
+    "main": "Teddy",
+    "sub": "Ziraat Teddy"
+  },
+  "stock": 43
+},
+{
+  "_id": {
+    "$oid": "680ca70b84098cdd76adb17d"
+  },
+  "title": "AVS 3 Feet Soft Teddy Bear For Birthday Party (Cream Co...",
+  "brand": "AVS",
+  "rating": "3.9",
+  "price": 992,
+  "image_url": "https://res.cloudinary.com/dljbnzwmr/image/upload/v1745659847/teddy/680ca70b84098cdd76adb17d.jpg",
+  "category": {
+    "main": "Teddy",
+    "sub": "AVS Teddy"
+  },
+  "stock": 43
+},
+{
+  "_id": {
+    "$oid": "680ca70b84098cdd76adb17e"
+  },
+  "title": "HOUSE OF COMMON 6 Feet Teddy bear Pink color | Teddy be...",
+  "brand": "HOUSE",
+  "rating": "4.4",
+  "price": 1169,
+  "image_url": "https://res.cloudinary.com/dljbnzwmr/image/upload/v1745659848/teddy/680ca70b84098cdd76adb17e.jpg",
+  "category": {
+    "main": "Teddy",
+    "sub": "HOUSE Teddy"
+  },
+  "stock": 43
+},
+{
+  "_id": {
+    "$oid": "680ca70b84098cdd76adb17f"
+  },
+  "title": "Kexmon 3 Feet Teddy Bear I Love You Jumbo For Some One ...",
+  "brand": "Kexmon",
+  "rating": "3.6",
+  "price": 242,
+  "image_url": "https://res.cloudinary.com/dljbnzwmr/image/upload/v1745659849/teddy/680ca70b84098cdd76adb17f.jpg",
+  "category": {
+    "main": "Teddy",
+    "sub": "Kexmon Teddy"
+  },
+  "stock": 43
+},
+{
+  "_id": {
+    "$oid": "680ca70b84098cdd76adb180"
+  },
+  "title": "MOSU Soft Toys Teddy Bear 5 Feet, Soft Toys For Kids, G...",
+  "brand": "MOSU",
+  "rating": "4",
+  "price": 683,
+  "image_url": "https://res.cloudinary.com/dljbnzwmr/image/upload/v1745659850/teddy/680ca70b84098cdd76adb180.jpg",
+  "category": {
+    "main": "Teddy",
+    "sub": "MOSU Teddy"
+  },
+  "stock": 43
+},
+{
+  "_id": {
+    "$oid": "680ca70b84098cdd76adb181"
+  },
+  "title": "FOOFII Big Size Cutest & Best Quality Teddy Bear A Perf...",
+  "brand": "FOOFII",
+  "rating": "3.7",
+  "price": 256,
+  "image_url": "https://res.cloudinary.com/dljbnzwmr/image/upload/v1745659851/teddy/680ca70b84098cdd76adb181.jpg",
+  "category": {
+    "main": "Teddy",
+    "sub": "FOOFII Teddy"
+  },
+  "stock": 43
+},
+{
+  "_id": {
+    "$oid": "680ca70c84098cdd76adb182"
+  },
+  "title": "TRUELOVER 3 Feet Red Teddy for your Valentine/Birthday/...",
+  "brand": "TRUELOVER",
+  "rating": "4",
+  "price": 360,
+  "image_url": "https://res.cloudinary.com/dljbnzwmr/image/upload/v1745659852/teddy/680ca70c84098cdd76adb182.jpg",
+  "category": {
+    "main": "Teddy",
+    "sub": "TRUELOVER Teddy"
+  },
+  "stock": 43
+},
+{
+  "_id": {
+    "$oid": "680ca70c84098cdd76adb183"
+  },
+  "title": "KD SAPRA Music, Sounds, Lights and Breathing Motion, Br...",
+  "brand": "KD",
+  "rating": "4.6",
+  "price": 764,
+  "image_url": "https://res.cloudinary.com/dljbnzwmr/image/upload/v1745659853/teddy/680ca70c84098cdd76adb183.jpg",
+  "category": {
+    "main": "Teddy",
+    "sub": "KD Teddy"
+  },
+  "stock": 43
+},
+{
+  "_id": {
+    "$oid": "680ca70c84098cdd76adb184"
+  },
+  "title": "StyleNDemand (3 Feet) Cute Teddy Bear Soft Teddy Bear ...",
+  "brand": "StyleNDemand",
+  "rating": "4.1",
+  "price": 295,
+  "image_url": "https://res.cloudinary.com/dljbnzwmr/image/upload/v1745659854/teddy/680ca70c84098cdd76adb184.jpg",
+  "category": {
+    "main": "Teddy",
+    "sub": "StyleNDemand Teddy"
+  },
+  "stock": 43
+},
+{
+  "_id": {
+    "$oid": "680ca70c84098cdd76adb185"
+  },
+  "title": "SHIVANGI COLLECTIONS Rabbit Pink Soft Toy Teddy Bear -...",
+  "brand": "SHIVANGI",
+  "rating": "4.1",
+  "price": 290,
+  "image_url": "https://res.cloudinary.com/dljbnzwmr/image/upload/v1745659855/teddy/680ca70c84098cdd76adb185.jpg",
+  "category": {
+    "main": "Teddy",
+    "sub": "SHIVANGI Teddy"
+  },
+  "stock": 43
+},
+{
+  "_id": {
+    "$oid": "680ca70c84098cdd76adb186"
+  },
+  "title": "RSS SOFT TOYS 3 Feet Very Cute Long Soft Hugable Americ...",
+  "brand": "RSS",
+  "rating": "3.6",
+  "price": 229,
+  "image_url": "https://res.cloudinary.com/dljbnzwmr/image/upload/v1745659856/teddy/680ca70c84098cdd76adb186.jpg",
+  "category": {
+    "main": "Teddy",
+    "sub": "RSS Teddy"
+  },
+  "stock": 43
+},
+{
+  "_id": {
+    "$oid": "680ca70c84098cdd76adb187"
+  },
+  "title": "snuglystuff Cute Lena Huddy Bear, Removable Cap Stuffed...",
+  "brand": "snuglystuff",
+  "rating": "4.7",
+  "price": 816,
+  "image_url": "https://res.cloudinary.com/dljbnzwmr/image/upload/v1745659857/teddy/680ca70c84098cdd76adb187.jpg",
+  "category": {
+    "main": "Teddy",
+    "sub": "snuglystuff Teddy"
+  },
+  "stock": 43
+},
+{
+  "_id": {
+    "$oid": "680ca70c84098cdd76adb188"
+  },
+  "title": "TRUELOVER 4 feet Teddy Bear Very Soft & Smooth Teddy To...",
+  "brand": "TRUELOVER",
+  "rating": "4",
+  "price": 498,
+  "image_url": "https://res.cloudinary.com/dljbnzwmr/image/upload/v1745659858/teddy/680ca70c84098cdd76adb188.jpg",
+  "category": {
+    "main": "Teddy",
+    "sub": "TRUELOVER Teddy"
+  },
+  "stock": 43
+},
+{
+  "_id": {
+    "$oid": "680ca70c84098cdd76adb189"
+  },
+  "title": "Ziraat red teddy bear 3 feet for gift st e (some one ) ...",
+  "brand": "Ziraat",
+  "rating": "3.8",
+  "price": 255,
+  "image_url": "https://res.cloudinary.com/dljbnzwmr/image/upload/v1745659859/teddy/680ca70c84098cdd76adb189.jpg",
+  "category": {
+    "main": "Teddy",
+    "sub": "Ziraat Teddy"
+  },
+  "stock": 43
+},
+{
+  "_id": {
+    "$oid": "680ca70d84098cdd76adb18a"
+  },
+  "title": "vtb retail stuffed toys 4 feet pink teddy bear / high q...",
+  "brand": "vtb",
+  "rating": "3.8",
+  "price": 389,
+  "image_url": "https://res.cloudinary.com/dljbnzwmr/image/upload/v1745659860/teddy/680ca70d84098cdd76adb18a.jpg",
+  "category": {
+    "main": "Teddy",
+    "sub": "vtb Teddy"
+  },
+  "stock": 43
+}]

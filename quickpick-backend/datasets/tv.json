@@ -1,0 +1,552 @@
+[{
+  "_id": {
+    "$oid": "67bc4602aca90b2bf4d6fa0b"
+  },
+  "title": "Sansui 80 cm (32 inch) HD Ready LED Smart Coolita TV 2024 Edition",
+  "brand": "Sansui",
+  "price": 9990,
+  "rating": "4.2",
+  "image_url": "https://res.cloudinary.com/dljbnzwmr/image/upload/v1741600422/tv/67bc4602aca90b2bf4d6fa0b.jpg",
+  "sold": 0,
+  "stock": 10,
+  "created_at": "2025-04-24T17:38:26.859Z",
+  "description": "The Sansui 32-inch HD Ready LED Smart Coolita TV 2024 Edition is a budget-friendly option for small spaces like bedrooms or kitchens. With smart features and a compact design, it delivers crisp visuals for everyday entertainment.",
+  "features": [
+    "32-inch HD Ready LED display",
+    "1366 x 768 resolution",
+    "Coolita OS with streaming apps",
+    "20W stereo speakers",
+    "2 HDMI ports",
+    "1 USB port",
+    "Wi-Fi connectivity"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67bc4608aca90b2bf4d6fa0c"
+  },
+  "title": "Sansui 80 cm (32 inch) HD Ready LED Smart Google TV with Zen Panel HDR10 & Dolby Audio",
+  "brand": "Sansui",
+  "price": 10799,
+  "rating": "4.2",
+  "image_url": "https://res.cloudinary.com/dljbnzwmr/image/upload/v1741600423/tv/67bc4608aca90b2bf4d6fa0c.jpg",
+  "sold": 0,
+  "stock": 10,
+  "created_at": "2025-04-24T17:38:26.859Z",
+  "description": "The Sansui 32-inch HD Ready LED Smart Google TV offers vibrant visuals with HDR10 and immersive Dolby Audio. Ideal for small living spaces, it provides access to Google TV’s vast app library for seamless streaming.",
+  "features": [
+    "32-inch HD Ready LED display",
+    "1366 x 768 resolution",
+    "Google TV OS",
+    "HDR10 support",
+    "20W speakers with Dolby Audio",
+    "2 HDMI ports",
+    "2 USB ports"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67bc460daca90b2bf4d6fa0d"
+  },
+  "title": "Hisense 108 cm (43 inch) Full HD LED Smart Google TV 2024 Edition with Dolby Audio, 30W Powerful Sound...",
+  "brand": "Hisense",
+  "price": 17999,
+  "rating": "4.3",
+  "image_url": "https://res.cloudinary.com/dljbnzwmr/image/upload/v1741600423/tv/67bc460daca90b2bf4d6fa0d.jpg",
+  "sold": 0,
+  "stock": 10,
+  "created_at": "2025-04-24T17:38:26.859Z",
+  "description": "The Hisense 43-inch Full HD LED Smart Google TV 2024 Edition delivers sharp visuals and powerful 30W Dolby Audio. Perfect for mid-sized rooms, it offers Google TV for easy access to streaming services.",
+  "features": [
+    "43-inch Full HD LED display",
+    "1920 x 1080 resolution",
+    "Google TV OS",
+    "30W speakers with Dolby Audio",
+    "3 HDMI ports",
+    "2 USB ports",
+    "Wi-Fi and Bluetooth"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67bc4613aca90b2bf4d6fa0e"
+  },
+  "title": "Coocaa 80 cm (32 inch) HD Ready LED Smart Coolita TV 2024 Edition with Dolby Audio and Eye Care Techno...",
+  "brand": "Coocaa",
+  "price": 7499,
+  "rating": "4.2",
+  "image_url": "https://res.cloudinary.com/dljbnzwmr/image/upload/v1741600424/tv/67bc4613aca90b2bf4d6fa0e.jpg",
+  "sold": 0,
+  "stock": 10,
+  "created_at": "2025-04-24T17:38:26.859Z",
+  "description": "The Coocaa 32-inch HD Ready LED Smart Coolita TV is an affordable choice for compact spaces. Featuring Dolby Audio and eye-care technology, it ensures comfortable viewing and clear sound for daily use.",
+  "features": [
+    "32-inch HD Ready LED display",
+    "1366 x 768 resolution",
+    "Coolita OS with streaming apps",
+    "20W speakers with Dolby Audio",
+    "Eye-care technology",
+    "2 HDMI ports",
+    "1 USB port"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67bc4618aca90b2bf4d6fa0f"
+  },
+  "title": "Mi by Xiaomi A Series 108 cm (43 inch) Full HD LED Smart Google TV 2024 Edition with 200+ Free Channel...",
+  "brand": "Mi",
+  "price": 22990,
+  "rating": "4.3",
+  "image_url": "https://res.cloudinary.com/dljbnzwmr/image/upload/v1741600425/tv/67bc4618aca90b2bf4d6fa0f.jpg",
+  "sold": 0,
+  "stock": 10,
+  "created_at": "2025-04-24T17:38:26.859Z",
+  "description": "The Mi by Xiaomi A Series 43-inch Full HD LED Smart Google TV offers a vibrant display and access to over 200 free channels. Ideal for family entertainment, it combines Google TV’s smart features with reliable performance.",
+  "features": [
+    "43-inch Full HD LED display",
+    "1920 x 1080 resolution",
+    "Google TV OS",
+    "24W stereo speakers",
+    "200+ free live channels",
+    "3 HDMI ports",
+    "2 USB ports"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67bc461eaca90b2bf4d6fa10"
+  },
+  "title": "realme TechLife CineSonic Q 140 cm (55 inch) QLED Ultra HD (4K) Smart Google TV",
+  "brand": "realme",
+  "price": 30999,
+  "rating": "4.3",
+  "image_url": "https://res.cloudinary.com/dljbnzwmr/image/upload/v1741600426/tv/67bc461eaca90b2bf4d6fa10.jpg",
+  "sold": 0,
+  "stock": 10,
+  "created_at": "2025-04-24T17:38:26.860Z",
+  "description": "The realme TechLife CineSonic Q 55-inch QLED Ultra HD Smart Google TV delivers stunning 4K visuals and vibrant colors. Perfect for home theater setups, it offers Google TV and immersive audio for a cinematic experience.",
+  "features": [
+    "55-inch QLED Ultra HD display",
+    "3840 x 2160 resolution",
+    "Google TV OS",
+    "24W speakers with Dolby Audio",
+    "HDR10+ support",
+    "3 HDMI ports",
+    "2 USB ports"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67bc4623aca90b2bf4d6fa11"
+  },
+  "title": "Thomson OP MAX 126 cm (50 inch) Ultra HD (4K) LED Smart Google TV with HDR10+ and Dolby Digital Plus",
+  "brand": "Thomson",
+  "price": 19990,
+  "rating": "4.5",
+  "image_url": "https://res.cloudinary.com/dljbnzwmr/image/upload/v1741600426/tv/67bc4623aca90b2bf4d6fa11.jpg",
+  "sold": 0,
+  "stock": 10,
+  "created_at": "2025-04-24T17:38:26.860Z",
+  "description": "The Thomson OP MAX 50-inch Ultra HD LED Smart Google TV offers crisp 4K visuals with HDR10+ and Dolby Digital Plus audio. Ideal for budget-conscious cinephiles, it provides a premium viewing experience with Google TV.",
+  "features": [
+    "50-inch Ultra HD LED display",
+    "3840 x 2160 resolution",
+    "Google TV OS",
+    "24W speakers with Dolby Digital Plus",
+    "HDR10+ support",
+    "3 HDMI ports",
+    "2 USB ports"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67bc4628aca90b2bf4d6fa12"
+  },
+  "title": "iFFALCON by TCL S44 79.97 cm (32 inch) HD Ready LED Smart Android TV with Metallic Bezel Less and Chro...",
+  "brand": "iFFALCON",
+  "price": 7999,
+  "rating": "4.2",
+  "image_url": "https://res.cloudinary.com/dljbnzwmr/image/upload/v1741600427/tv/67bc4628aca90b2bf4d6fa12.jpg",
+  "sold": 0,
+  "stock": 10,
+  "created_at": "2025-04-24T17:38:26.860Z",
+  "description": "The iFFALCON by TCL S44 32-inch HD Ready LED Smart Android TV is a sleek, budget-friendly option for small spaces. With Android TV and a bezel-less design, it offers easy access to streaming apps and clear visuals.",
+  "features": [
+    "32-inch HD Ready LED display",
+    "1366 x 768 resolution",
+    "Android TV OS",
+    "20W stereo speakers",
+    "Chromecast built-in",
+    "2 HDMI ports",
+    "1 USB port"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67bc462eaca90b2bf4d6fa13"
+  },
+  "title": "iFFALCON by TCL U62 139 cm (55 inch) Ultra HD (4K) LED Smart Google TV with 24W Dolby Audio, HDR10 and...",
+  "brand": "iFFALCON",
+  "price": 19999,
+  "rating": "4.2",
+  "image_url": "https://res.cloudinary.com/dljbnzwmr/image/upload/v1741600428/tv/67bc462eaca90b2bf4d6fa13.jpg",
+  "sold": 0,
+  "stock": 10,
+  "created_at": "2025-04-24T17:38:26.860Z",
+  "description": "The iFFALCON by TCL U62 55-inch Ultra HD LED Smart Google TV delivers stunning 4K visuals with HDR10 and Dolby Audio. Perfect for large living rooms, it offers Google TV for seamless streaming and entertainment.",
+  "features": [
+    "55-inch Ultra HD LED display",
+    "3840 x 2160 resolution",
+    "Google TV OS",
+    "24W speakers with Dolby Audio",
+    "HDR10 support",
+    "3 HDMI ports",
+    "2 USB ports"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67bc4633aca90b2bf4d6fa14"
+  },
+  "title": "iFFALCON by TCL U64 139 cm (55 inch) Ultra HD (4K) LED Smart Google TV with 24W Dolby Audio, HDR10",
+  "brand": "iFFALCON",
+  "price": 25999,
+  "rating": "4.2",
+  "image_url": "https://res.cloudinary.com/dljbnzwmr/image/upload/v1741600429/tv/67bc4633aca90b2bf4d6fa14.jpg",
+  "sold": 0,
+  "stock": 10,
+  "created_at": "2025-04-24T17:38:26.860Z",
+  "description": "The iFFALCON by TCL U64 55-inch Ultra HD LED Smart Google TV offers vibrant 4K visuals and immersive Dolby Audio. Ideal for home entertainment, it features Google TV for access to a wide range of apps.",
+  "features": [
+    "55-inch Ultra HD LED display",
+    "3840 x 2160 resolution",
+    "Google TV OS",
+    "24W speakers with Dolby Audio",
+    "HDR10 support",
+    "3 HDMI ports",
+    "2 USB ports"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67bc4639aca90b2bf4d6fa15"
+  },
+  "title": "Sansui 102 cm (40 inch) Full HD LED Smart Google TV with Zen Panel HDR10 & Dolby Audio",
+  "brand": "Sansui",
+  "price": 17549,
+  "rating": "4.2",
+  "image_url": "https://res.cloudinary.com/dljbnzwmr/image/upload/v1741600430/tv/67bc4639aca90b2bf4d6fa15.jpg",
+  "sold": 0,
+  "stock": 10,
+  "created_at": "2025-04-24T17:38:26.860Z",
+  "description": "The Sansui 40-inch Full HD LED Smart Google TV combines sharp visuals with HDR10 and Dolby Audio for an immersive experience. Perfect for medium-sized rooms, it offers Google TV for seamless streaming.",
+  "features": [
+    "40-inch Full HD LED display",
+    "1920 x 1080 resolution",
+    "Google TV OS",
+    "24W speakers with Dolby Audio",
+    "HDR10 support",
+    "3 HDMI ports",
+    "2 USB ports"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67bc463eaca90b2bf4d6fa16"
+  },
+  "title": "MOTOROLA EnvisionX 140 cm (55 inch) QLED Ultra HD (4K) Smart Google TV with Dolby Vision and Dolby Atm...",
+  "brand": "MOTOROLA",
+  "price": 29999,
+  "rating": "4.3",
+  "image_url": "https://res.cloudinary.com/dljbnzwmr/image/upload/v1741600431/tv/67bc463eaca90b2bf4d6fa16.jpg",
+  "sold": 0,
+  "stock": 10,
+  "created_at": "2025-04-24T17:38:26.860Z",
+  "description": "The MOTOROLA EnvisionX 55-inch QLED Ultra HD Smart Google TV offers stunning 4K visuals with Dolby Vision and Dolby Atmos audio. Ideal for cinematic experiences, it features Google TV for versatile streaming.",
+  "features": [
+    "55-inch QLED Ultra HD display",
+    "3840 x 2160 resolution",
+    "Google TV OS",
+    "30W speakers with Dolby Atmos",
+    "Dolby Vision support",
+    "3 HDMI ports",
+    "2 USB ports"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67bc4643aca90b2bf4d6fa17"
+  },
+  "title": "Mi by Xiaomi A Series 80 cm (32 inch) HD Ready LED Smart Google TV 2024 Edition with 200+ Free Channel...",
+  "brand": "Mi",
+  "price": 12490,
+  "rating": "4.3",
+  "image_url": "https://res.cloudinary.com/dljbnzwmr/image/upload/v1741600432/tv/67bc4643aca90b2bf4d6fa17.jpg",
+  "sold": 0,
+  "stock": 10,
+  "created_at": "2025-04-24T17:38:26.860Z",
+  "description": "The Mi by Xiaomi A Series 32-inch HD Ready LED Smart Google TV is perfect for small spaces with access to over 200 free channels. Its compact design and Google TV platform make it ideal for casual viewing.",
+  "features": [
+    "32-inch HD Ready LED display",
+    "1366 x 768 resolution",
+    "Google TV OS",
+    "20W stereo speakers",
+    "200+ free live channels",
+    "2 HDMI ports",
+    "2 USB ports"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67bc4649aca90b2bf4d6fa18"
+  },
+  "title": "Thomson FA Series 108 cm (43 inch) Full HD LED Smart Android TV with Dolby Digital Plus & Android 11",
+  "brand": "Thomson",
+  "price": 15999,
+  "rating": "4.3",
+  "image_url": "https://res.cloudinary.com/dljbnzwmr/image/upload/v1741600432/tv/67bc4649aca90b2bf4d6fa18.jpg",
+  "sold": 0,
+  "stock": 10,
+  "created_at": "2025-04-24T17:38:26.861Z",
+  "description": "The Thomson FA Series 43-inch Full HD LED Smart Android TV offers sharp visuals and Dolby Digital Plus audio. With Android 11, it’s a great choice for streaming and entertainment in mid-sized rooms.",
+  "features": [
+    "43-inch Full HD LED display",
+    "1920 x 1080 resolution",
+    "Android 11 OS",
+    "24W speakers with Dolby Digital Plus",
+    "3 HDMI ports",
+    "2 USB ports",
+    "Wi-Fi connectivity"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67bc464eaca90b2bf4d6fa19"
+  },
+  "title": "iFFALCON by TCL U64 108 cm (43 inch) Ultra HD (4K) LED Smart Google TV with 24W Dolby Audio, HDR10",
+  "brand": "iFFALCON",
+  "price": 17999,
+  "rating": "4.2",
+  "image_url": "https://res.cloudinary.com/dljbnzwmr/image/upload/v1741600433/tv/67bc464eaca90b2bf4d6fa19.jpg",
+  "sold": 0,
+  "stock": 10,
+  "created_at": "2025-04-24T17:38:26.861Z",
+  "description": "The iFFALCON by TCL U64 43-inch Ultra HD LED Smart Google TV delivers vibrant 4K visuals with HDR10 and Dolby Audio. Perfect for small to medium rooms, it offers Google TV for seamless streaming.",
+  "features": [
+    "43-inch Ultra HD LED display",
+    "3840 x 2160 resolution",
+    "Google TV OS",
+    "24W speakers with Dolby Audio",
+    "HDR10 support",
+    "3 HDMI ports",
+    "2 USB ports"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67bc4654aca90b2bf4d6fa1a"
+  },
+  "title": "Acer G plus Series 108 cm (43 inch) Full HD LED Smart Google TV with (black) 2024 Model",
+  "brand": "Acer",
+  "price": 18999,
+  "rating": "4.1",
+  "image_url": "https://res.cloudinary.com/dljbnzwmr/image/upload/v1741600434/tv/67bc4654aca90b2bf4d6fa1a.jpg",
+  "sold": 0,
+  "stock": 10,
+  "created_at": "2025-04-24T17:38:26.861Z",
+  "description": "The Acer G Plus Series 43-inch Full HD LED Smart Google TV offers sharp visuals and Google TV for easy streaming. Ideal for mid-sized rooms, it provides reliable performance for family entertainment.",
+  "features": [
+    "43-inch Full HD LED display",
+    "1920 x 1080 resolution",
+    "Google TV OS",
+    "24W stereo speakers",
+    "3 HDMI ports",
+    "2 USB ports",
+    "Wi-Fi and Bluetooth"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67bc465aaca90b2bf4d6fa1b"
+  },
+  "title": "MOTOROLA EnvisionX 165 cm (65 inch) QLED Ultra HD (4K) Smart Google TV with Dolby Vision and Dolby Atm...",
+  "brand": "MOTOROLA",
+  "price": 40999,
+  "rating": "4.3",
+  "image_url": "https://res.cloudinary.com/dljbnzwmr/image/upload/v1741600435/tv/67bc465aaca90b2bf4d6fa1b.jpg",
+  "sold": 0,
+  "stock": 10,
+  "created_at": "2025-04-24T17:38:26.862Z",
+  "description": "The MOTOROLA EnvisionX 65-inch QLED Ultra HD Smart Google TV delivers breathtaking 4K visuals with Dolby Vision and Dolby Atmos audio. Perfect for large living rooms, it offers a premium home theater experience.",
+  "features": [
+    "65-inch QLED Ultra HD display",
+    "3840 x 2160 resolution",
+    "Google TV OS",
+    "40W speakers with Dolby Atmos",
+    "Dolby Vision support",
+    "4 HDMI ports",
+    "2 USB ports"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67bc465faca90b2bf4d6fa1c"
+  },
+  "title": "MOTOROLA EnvisionX 108 cm (43 inch) QLED Ultra HD (4K) Smart Google TV with Dolby Vision & Dolby Atmos",
+  "brand": "MOTOROLA",
+  "price": 22499,
+  "rating": "4.3",
+  "image_url": "https://res.cloudinary.com/dljbnzwmr/image/upload/v1741600436/tv/67bc465faca90b2bf4d6fa1c.jpg",
+  "sold": 0,
+  "stock": 10,
+  "created_at": "2025-04-24T17:38:26.862Z",
+  "description": "The MOTOROLA EnvisionX 43-inch QLED Ultra HD Smart Google TV offers stunning 4K visuals with Dolby Vision and Dolby Atmos audio. Ideal for medium-sized rooms, it provides a cinematic experience with Google TV.",
+  "features": [
+    "43-inch QLED Ultra HD display",
+    "3840 x 2160 resolution",
+    "Google TV OS",
+    "30W speakers with Dolby Atmos",
+    "Dolby Vision support",
+    "3 HDMI ports",
+    "2 USB ports"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67bc4665aca90b2bf4d6fa1d"
+  },
+  "title": "Thomson Alpha 60 cm (24 Inch) HD Ready LED Smart Linux TV with 20 W Sound Output",
+  "brand": "Thomson",
+  "price": 5999,
+  "rating": "4.3",
+  "image_url": "https://res.cloudinary.com/dljbnzwmr/image/upload/v1741600436/tv/67bc4665aca90b2bf4d6fa1d.jpg",
+  "sold": 0,
+  "stock": 10,
+  "created_at": "2025-04-24T17:38:26.862Z",
+  "description": "The Thomson Alpha 24-inch HD Ready LED Smart Linux TV is a compact, budget-friendly option for small spaces like kitchens or dorms. With smart features and 20W audio, it offers reliable performance for casual viewing.",
+  "features": [
+    "24-inch HD Ready LED display",
+    "1366 x 768 resolution",
+    "Linux-based smart OS",
+    "20W stereo speakers",
+    "2 HDMI ports",
+    "1 USB port",
+    "Wi-Fi connectivity"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67bc466baca90b2bf4d6fa1e"
+  },
+  "title": "InnoQ Spectra 108 cm (43 inch) Full HD LED Smart Android TV with 30W Boom Speakers | 1000+ Smart Apps ...",
+  "brand": "InnoQ",
+  "price": 12990,
+  "rating": "4",
+  "image_url": "https://res.cloudinary.com/dljbnzwmr/image/upload/v1741600437/tv/67bc466baca90b2bf4d6fa1e.jpg",
+  "sold": 0,
+  "stock": 10,
+  "created_at": "2025-04-24T17:38:26.862Z",
+  "description": "The InnoQ Spectra 43-inch Full HD LED Smart Android TV delivers clear visuals and powerful 30W audio. With Android TV and over 1000 apps, it’s ideal for streaming in medium-sized rooms.",
+  "features": [
+    "43-inch Full HD LED display",
+    "1920 x 1080 resolution",
+    "Android TV OS",
+    "30W boom speakers",
+    "1000+ smart apps",
+    "3 HDMI ports",
+    "2 USB ports"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67bc4672aca90b2bf4d6fa1f"
+  },
+  "title": "Sansui 165 cm (65 inch) QLED Ultra HD (4K) Smart Google TV IPS Display Zen Panel Dolby Vision & Atmos ...",
+  "brand": "Sansui",
+  "price": 51190,
+  "rating": "4.2",
+  "image_url": "https://res.cloudinary.com/dljbnzwmr/image/upload/v1741600438/tv/67bc4672aca90b2bf4d6fa1f.jpg",
+  "sold": 0,
+  "stock": 10,
+  "created_at": "2025-04-24T17:38:26.862Z",
+  "description": "The Sansui 65-inch QLED Ultra HD Smart Google TV offers breathtaking 4K visuals with Dolby Vision and Atmos audio. Perfect for large living rooms, it provides a premium home theater experience with Google TV.",
+  "features": [
+    "65-inch QLED Ultra HD IPS display",
+    "3840 x 2160 resolution",
+    "Google TV OS",
+    "40W speakers with Dolby Atmos",
+    "Dolby Vision support",
+    "4 HDMI ports",
+    "2 USB ports"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67bc4678aca90b2bf4d6fa20"
+  },
+  "title": "REDMI MI 108 cm (43 inch) Ultra HD (4K) LED Smart FireTv OS 7 TV 2024 Edition with 12000+ Apps| Alexa ...",
+  "brand": "REDMI",
+  "price": 25999,
+  "rating": "4.2",
+  "image_url": "https://res.cloudinary.com/dljbnzwmr/image/upload/v1741600438/tv/67bc4678aca90b2bf4d6fa20.jpg",
+  "sold": 0,
+  "stock": 10,
+  "created_at": "2025-04-24T17:38:26.862Z",
+  "description": "The REDMI MI 43-inch Ultra HD LED Smart FireTV OS 7 TV offers stunning 4K visuals and access to over 12,000 apps with Alexa integration. Ideal for modern homes, it delivers a seamless streaming experience.",
+  "features": [
+    "43-inch Ultra HD LED display",
+    "3840 x 2160 resolution",
+    "FireTV OS 7",
+    "24W speakers",
+    "Alexa voice control",
+    "3 HDMI ports",
+    "2 USB ports"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67bc467daca90b2bf4d6fa21"
+  },
+  "title": "Mi by Xiaomi X Series 125 cm (50 inch) Ultra HD (4K) LED Smart Google TV 2024 Edition with 4K Dolby Vi...",
+  "brand": "Mi",
+  "price": 32990,
+  "rating": "4.3",
+  "image_url": "https://res.cloudinary.com/dljbnzwmr/image/upload/v1741600439/tv/67bc467daca90b2bf4d6fa21.jpg",
+  "sold": 0,
+  "stock": 10,
+  "created_at": "2025-04-24T17:38:26.862Z",
+  "description": "The Mi by Xiaomi X Series 50-inch Ultra HD LED Smart Google TV delivers vibrant 4K visuals with Dolby Vision. Perfect for home entertainment, it offers Google TV for a wide range of streaming options.",
+  "features": [
+    "50-inch Ultra HD LED display",
+    "3840 x 2160 resolution",
+    "Google TV OS",
+    "30W speakers with Dolby Audio",
+    "4K Dolby Vision",
+    "3 HDMI ports",
+    "2 USB ports"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67bc4683aca90b2bf4d6fa22"
+  },
+  "title": "iFFALCON by TCL 139 cm (55 inch) QLED Ultra HD (4K) Smart Google TV Dolby Vision Atmos and 120 Hz Game...",
+  "brand": "iFFALCON",
+  "price": 24999,
+  "rating": "4.2",
+  "image_url": "https://res.cloudinary.com/dljbnzwmr/image/upload/v1741600440/tv/67bc4683aca90b2bf4d6fa22.jpg",
+  "sold": 0,
+  "stock": 10,
+  "created_at": "2025-04-24T17:38:26.862Z",
+  "description": "The iFFALCON by TCL 55-inch QLED Ultra HD Smart Google TV offers stunning 4K visuals with Dolby Vision and Atmos audio. With a 120Hz refresh rate, it’s ideal for gamers and home theater enthusiasts.",
+  "features": [
+    "55-inch QLED Ultra HD display",
+    "3840 x 2160 resolution",
+    "Google TV OS",
+    "30W speakers with Dolby Atmos",
+    "Dolby Vision and 120Hz gaming mode",
+    "3 HDMI ports",
+    "2 USB ports"
+  ]
+}]
