@@ -134,10 +134,6 @@ export default function Navbar() {
             </div>
           )}
 
-          <Link to="/wishlist" className="flex items-center space-x-1 cursor-pointer">
-            <FaHeart className="text-lg" />
-            <span>Wishlist</span>
-          </Link>
           <Link to="/cart" className="flex items-center space-x-1 cursor-pointer">
             <FaShoppingCart className="text-lg" />
             <span>Cart</span>

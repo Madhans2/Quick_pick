@@ -15,7 +15,6 @@ import Signup from './pages/Signup.jsx';
 import Profile from './pages/Profile.jsx';
 import CartPage from './pages/CartPage.jsx';
 import OrdersPage from './pages/OrdersPage.jsx';
-import WishlistPage from './pages/WishlistPage.jsx';
 import ForgotPassword from "./pages/ForgotPassword";
 import ResetPassword from "./pages/ResetPassword"; // from earlier
 import SearchResults from "./pages/SearchResults";
@@ -47,7 +46,6 @@ function App() {
            <Route path="/profile" element={<Profile />} />
            <Route path="/cart" element={<CartPage />} />
            <Route path="/orders" element={<OrdersPage />} />
-           <Route path="/wishlist" element={<WishlistPage />} />
            <Route path="/forgot-password" element={<ForgotPassword />} />
             <Route path="/reset-password" element={<ResetPassword />} />
             <Route path="/search" element={<SearchResults />} />

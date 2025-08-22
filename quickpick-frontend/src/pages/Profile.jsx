@@ -59,7 +59,7 @@ export default function Profile() {
               Cart
             </li>
             <li className="py-2 hover:bg-[#fde68a] rounded cursor-pointer transition">
-              Wishlist
+              Orders
             </li>
           </ul>
         </div>
