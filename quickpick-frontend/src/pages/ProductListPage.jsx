@@ -16,11 +16,15 @@ const ProductListPage = () => {
   const [maxPrice, setMaxPrice] = useState(100000);
   const [sortOrder, setSortOrder] = useState('');
 
+  const API_BASE = "https://quick-pick-o9en.onrender.com";
+
   useEffect(() => {
+    if (!category) return; // Prevent API call if category is undefined
+
     const fetchProducts = async () => {
       setLoading(true);
       try {
-        const res = await axios.get(`/api/products/${category}`);
+        const res = await axios.get(`${API_BASE}/api/products/${category}`);
         setProducts(res.data);
         setFilteredProducts(res.data);
         setCurrentPage(1);
