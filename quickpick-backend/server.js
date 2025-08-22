@@ -18,7 +18,7 @@ const app = express();
 // Middleware
 app.use(cors());
 app.use(express.json());
-app.use(cors({ origin: 'https://quick-pick-o9en.onrender.com' }));
+app.use(cors({ origin: ['http://localhost:5173', 'https://quick-pick-o9en.onrender.com'] }));
 app.use(bodyParser.json());
 
 
