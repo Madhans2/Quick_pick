@@ -33,17 +33,8 @@ npm install
 npm start
 
 📁 Project Structure
-quick-pick/
-│── frontend/
-│   ├── src/
-│   ├── components/
-│   ├── pages/
-│── backend/
-│   ├── models/
-│   ├── routes/
-│   ├── controllers/
-│   ├── server.js
-│── README.md
+<img width="348" height="361" alt="image" src="https://github.com/user-attachments/assets/0912c04f-2d83-44d6-bada-cc12c229e551" />
+
 
 
 <img width="940" height="452" alt="image" src="https://github.com/user-attachments/assets/7810e73f-b6fa-43e6-af45-59e30d6a6e6a" />
