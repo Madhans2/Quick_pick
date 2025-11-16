@@ -1,5 +1,10 @@
 Quick Pick – Smart Task & Item Selection App
 Quick Pick is a fast and efficient web application designed to help users quickly select, manage, and organize tasks or items. Built with React.js, Node.js, and MongoDB, the app focuses on simplicity, accuracy, and a seamless user experience. It also follows modern UI/UX principles, making everyday task selection easier and more intuitive.
+
+🔗 Live Demo
+
+👉 Use Quick Pick here:
+https://quick-pick-pied.vercel.app/
 ________________________________________
 🚀 Features
 •	🔐 User Authentication – Secure login & signup
